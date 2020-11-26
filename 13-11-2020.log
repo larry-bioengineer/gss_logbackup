@@ -1,0 +1,187 @@
+11/13/2020 9:49:17 AM 	 Warning 	 Session request
+11/13/2020 9:49:18 AM 	 Success 	 Response: {"accessKey":"9d40713ffe9e43498477ac5754a2284f","id":"7549db8958cd4d698b3a86408d0637b4"}
+11/13/2020 9:49:18 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:49:18 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:19 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:49:34 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:z+U4IrzjIBVbQ4d7VQAsr/QAhqk=
+11/13/2020 9:49:38 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:39 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:49:39 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:39 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:49:39 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:49:39 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:39 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:49:39 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:49:40 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:40 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:49:40 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:49:40 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:41 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:49:42 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:49:42 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:42 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:49:42 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:e8KPONwh2JtokpwuPCI2+cN1afQ=
+11/13/2020 9:49:45 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:45 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:49:45 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:45 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:49:45 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:49:45 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:46 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:49:46 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:49:46 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:46 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:49:46 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:49:46 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:47 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:49:48 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:49:48 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:49 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:49:49 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:fycPK0ra1mCzyzgGZNAzmJwwaDs=
+11/13/2020 9:49:51 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:51 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:49:51 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:51 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:49:51 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:49:51 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:52 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:49:52 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:49:52 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:52 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:49:52 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:49:52 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:53 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:49:54 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:49:54 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:55 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:49:55 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:9y/7l/xMiQeMIZbj/3MxfLvArJE=
+11/13/2020 9:49:56 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:56 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:49:56 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:49:56 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:49:56 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:49:56 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:57 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:49:57 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:49:57 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:57 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:49:57 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:49:57 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:49:58 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:49:59 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:49:59 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:00 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:50:00 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:4acjqZ0VSEsbPQSIojJja9L2yKc=
+11/13/2020 9:50:15 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:15 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:50:15 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:15 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:50:15 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:50:15 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:16 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:50:16 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:50:16 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:XsrIFd8kmH9frfKWnYBL7atmkPY=
+11/13/2020 9:50:16 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:16 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:16 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:50:16 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:16 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:50:16 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:50:16 AM 	 Warning 	 Attempt 1: 02-30-30-31-30-50-41-50-30-30-30-30-30-03-71
+11/13/2020 9:50:16 AM 	 Warning 	 Attempt 2: 30-30
+11/13/2020 9:50:17 AM 	 Failed 	 Unable to execute dispenser code: Status, Reading step name: Response
+11/13/2020 9:50:17 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:50:17 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:50:17 AM 	 Warning 	 Attempt 1: 15
+11/13/2020 9:50:17 AM 	 Warning 	 Attempt 3: 30-30
+11/13/2020 9:50:17 AM 	 Warning 	 Attempt 4: 30-30
+11/13/2020 9:50:17 AM 	 Warning 	 Attempt 2: 06
+11/13/2020 9:50:17 AM 	 Warning 	 Attempt 3: 15
+11/13/2020 9:50:18 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:50:18 AM 	 Failed 	 Unable to execute dispenser code: Forbid, Reading step name: Response
+11/13/2020 9:50:18 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:50:18 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:50:18 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:18 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:50:18 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:50:19 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:19 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:50:19 AM 	 Failed 	 Unable to execute dispenser code: Forbid, Reading step name: Response
+11/13/2020 9:50:19 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:50:19 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:50:19 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:LJLFdsK+pXQrkiTX82wqUusSJZ8=
+11/13/2020 9:50:20 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:50:20 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:21 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:50:21 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:76Lvz4NBv0UO1MOCgHD9Lw0V+OY=
+11/13/2020 9:50:21 AM 	 Error	 	 Status Code : MethodNotAllowed
+11/13/2020 9:50:21 AM 	 Error	 	 Status Description : Method Not Allowed
+11/13/2020 9:50:21 AM 	 Error	 	 {
+  "status" : 405,
+  "code" : 40501,
+  "resource" : null,
+  "properties" : [ ],
+  "message" : "The request method is not allowed on this resource.",
+  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"
+}
+11/13/2020 9:50:21 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:21 AM 	 Warning 	 Eject Flag status: True
+11/13/2020 9:50:21 AM 	 Error	 	 Status Code : InternalServerError
+11/13/2020 9:50:21 AM 	 Error	 	 Status Description : Internal Server Error
+11/13/2020 9:50:21 AM 	 Error	 	 {
+  "status" : 500,
+  "code" : 50001,
+  "resource" : null,
+  "properties" : [ ],
+  "message" : "Internal server error.",
+  "developerMessage" : "Internal server error. (Failed to release encoder 1113, since the encoder isn't locked)"
+}
+11/13/2020 9:50:21 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:21 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:21 AM 	 Warning 	 Eject Flag status: True
+11/13/2020 9:50:21 AM 	 Warning 	 Attempt 1: 30-30
+11/13/2020 9:50:21 AM 	 Failed 	 Unable to execute dispenser code: Eject, Reading step name: Response
+11/13/2020 9:50:21 AM 	 Success 	 Success execute dispenser code. Code: Eject
+11/13/2020 9:50:22 AM 	 Success 	 Success execute dispenser code. Code: Eject
+11/13/2020 9:50:37 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:V3ItP00fZuljmdWhDsAS7ks234A=
+11/13/2020 9:50:41 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:41 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:50:41 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:41 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:50:41 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:50:41 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:42 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:50:42 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:50:42 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:42 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:50:42 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:50:43 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:43 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:50:44 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:50:44 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:45 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:50:45 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:RtCvTgu33RV23nYOf7UH3VWPz34=
+11/13/2020 9:50:49 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:49 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":null,"givenName":null}
+11/13/2020 9:50:49 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:50:49 AM 	 Warning 	 Eject Flag status: True
+11/13/2020 9:50:49 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:50:50 AM 	 Success 	 Success execute dispenser code. Code: Eject
+11/13/2020 9:51:01 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:d7XlTbY5KBlrogFO0bKv2kiwwU4=
+11/13/2020 9:51:07 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:51:07 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":"ID20201110131713","surname":null,"givenName":null}
+11/13/2020 9:51:07 AM 	 Warning 	 CREATE KEY REQUEST
+11/13/2020 9:51:07 AM 	 Success 	 Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+11/13/2020 9:51:07 AM 	 Warning 	 Capture Flag status: True
+11/13/2020 9:51:07 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:51:08 AM 	 Success 	 Success execute dispenser code. Code: Capture
+11/13/2020 9:51:08 AM 	 Warning 	 Status Flag status: True
+11/13/2020 9:51:08 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:51:09 AM 	 Success 	 Success execute dispenser code. Code: Status
+11/13/2020 9:51:09 AM 	 Warning 	 Forbid Flag status: True
+11/13/2020 9:51:09 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:51:09 AM 	 Success 	 Success execute dispenser code. Code: Forbid
+11/13/2020 9:51:10 AM 	 Warning 	 Enable Flag status: True
+11/13/2020 9:51:10 AM 	 Warning 	 Attempt 1: 06
+11/13/2020 9:51:11 AM 	 Success 	 Success execute dispenser code. Code: Enable
+11/13/2020 9:51:11 AM 	 Warning 	 AWS 7549db8958cd4d698b3a86408d0637b4:ExXDmFrxw6r/xzDd8cemRsSSWWQ=
