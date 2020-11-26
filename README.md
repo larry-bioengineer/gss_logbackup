@@ -6,3 +6,6 @@ The goal of this program is to periodically upload a program to a google sheet. 
 ## To-Do
 1. allow users to input directory 
 2. automatically update file name for extracting system log 
+
+## How to run
+Run main.py in terminal. 
