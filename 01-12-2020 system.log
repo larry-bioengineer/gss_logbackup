@@ -1,0 +1,162 @@
+Date:	Status:	Description:
+12/01/2020 10:11:39 AM	Success	Connect to card dispenser successfully! Port: COM11
+12/01/2020 10:11:39 AM	Warning	Status Flag status: True
+12/01/2020 10:11:40 AM	Success	Success execute dispenser code. Code: Status
+12/01/2020 10:11:40 AM	Warning	AutoEject Flag status: True
+12/01/2020 10:11:40 AM	Success	Success execute dispenser code. Code: AutoEject
+12/01/2020 10:11:40 AM	Warning	Initializing port for Arduino...
+12/01/2020 10:11:40 AM	Success	Connect to Arduino port successfully. Port: COM3
+12/01/2020 10:11:40 AM	Warning	Session request
+12/01/2020 10:11:41 AM	Success	Response: {"accessKey":"337316425c644fa3b6b85c710c3a1214","id":"96379b253dfc4a6ebb63bce1973fddc3"}
+12/01/2020 10:11:41 AM	Warning	Enable Flag status: True
+12/01/2020 10:11:41 AM	Success	Success execute dispenser code. Code: Enable
+12/01/2020 10:11:41 AM	Success	Vingcard IP Encoder Initialize successfully!
+12/01/2020 10:11:47 AM	Warning	Arduino received data: detected
+12/01/2020 10:11:47 AM	Warning	Detected: True, UIBlockTimer is counting: False
+12/01/2020 10:11:47 AM	Warning	UIBlockerTimer: False, ReadingTimer: False, DetectedTimer: False, AutoCaptureTimer: False
+12/01/2020 10:11:50 AM	Warning	DetectedTimer Elapsed
+12/01/2020 10:11:50 AM	Success	Running command successfully: Arduino TurnOn
+12/01/2020 10:11:55 AM	Warning	AutoEjectTimer Elapsed
+12/01/2020 10:11:55 AM	Success	Running command successfully: Arduino TurnOff
+12/01/2020 10:11:55 AM	Warning	Capture Flag status: True
+12/01/2020 10:11:56 AM	Success	Success execute dispenser code. Code: Capture
+12/01/2020 10:11:56 AM	Warning	Forbid Flag status: True
+12/01/2020 10:11:56 AM	Success	Success execute dispenser code. Code: Forbid
+12/01/2020 10:11:57 AM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:hIjF7gc1WQQY45M1BfFbm9mDKvA=
+12/01/2020 10:11:57 AM	Warning	Enable Flag status: True
+12/01/2020 10:11:58 AM	Success	Success execute dispenser code. Code: Enable
+12/01/2020 10:11:59 AM	Warning	CREATE KEY REQUEST
+12/01/2020 10:11:59 AM	Success	Response: {"credentialId":null,"cardHolder":"ID20201123145654","surname":null,"givenName":null}
+12/01/2020 10:11:59 AM	Warning	CREATE KEY REQUEST
+12/01/2020 10:11:59 AM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Tommy","givenName":"Wong"}
+12/01/2020 10:11:59 AM	Warning	CardHolder: Wong Tommy
+12/01/2020 10:11:59 AM	Warning	Valid card. Running success and capture card procedure.
+12/01/2020 10:11:59 AM	Warning	Running ForceToStopFailTimer
+12/01/2020 10:11:59 AM	Success	Running command successfully: Arduino TurnOn
+12/01/2020 10:11:59 AM	Warning	Capture Flag status: True
+12/01/2020 10:11:59 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Success	Success execute dispenser code. Code: Capture
+12/01/2020 10:12:00 AM	Warning	Status Flag status: True
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:00 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Success	Success execute dispenser code. Code: Status
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Success	Running command successfully: Arduino TurnOff
+12/01/2020 10:12:01 AM	Warning	Forbid Flag status: True
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:01 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Success	Success execute dispenser code. Code: Forbid
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	VingCardReadTimer Elapsed
+12/01/2020 10:12:02 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	Enable Flag status: True
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:03 AM	Success	Success execute dispenser code. Code: Enable
+12/01/2020 10:12:03 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:04 AM	Success	Running command successfully: Arduino UpdateThreshold
+12/01/2020 10:12:04 AM	Warning	Running EnableFailTimer
+12/01/2020 10:12:07 AM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:bAslcpWcGgrcf4EO0utLvX5M7qM=
+12/01/2020 10:12:14 AM	Warning	CREATE KEY REQUEST
+12/01/2020 10:12:14 AM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/01/2020 10:12:14 AM	Warning	CREATE KEY REQUEST
+12/01/2020 10:12:14 AM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/01/2020 10:12:14 AM	Warning	CardHolder: Auto-Added Auto-Added
+12/01/2020 10:12:14 AM	Warning	Valid card. Running success and capture card procedure.
+12/01/2020 10:12:14 AM	Warning	Running ForceToStopFailTimer
+12/01/2020 10:12:14 AM	Success	Running command successfully: Arduino TurnOn
+12/01/2020 10:12:14 AM	Warning	Capture Flag status: True
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Success	Success execute dispenser code. Code: Capture
+12/01/2020 10:12:15 AM	Warning	Status Flag status: True
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:15 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Success	Success execute dispenser code. Code: Status
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Success	Running command successfully: Arduino TurnOff
+12/01/2020 10:12:16 AM	Warning	Forbid Flag status: True
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:16 AM	Success	Success execute dispenser code. Code: Forbid
+12/01/2020 10:12:16 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	VingCardReadTimer Elapsed
+12/01/2020 10:12:17 AM	Warning	Enable Flag status: True
+12/01/2020 10:12:17 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Success	Success execute dispenser code. Code: Enable
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:18 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Warning	ReadingTimer Elapsed
+12/01/2020 10:12:19 AM	Success	Running command successfully: Arduino UpdateThreshold
+12/01/2020 10:12:19 AM	Warning	Running EnableFailTimer
+12/01/2020 10:12:22 AM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:aI2HLQt89dBoEzvQ7ESRbJgLYQk=
+12/01/2020 10:12:38 AM	Error	Status Code : GatewayTimeout
+12/01/2020 10:12:38 AM	Error	Status Description : Gateway Timeout
+12/01/2020 03:50:38 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15625 ms)"}
+12/01/2020 03:59:38 PM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:Arv/uI3A0LD5VMJFyMH14N60kdQ=
