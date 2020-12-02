@@ -4,7 +4,7 @@
 
 # Libraries
 import requests
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 import time
 import config
 from pathlib import Path
@@ -85,7 +85,14 @@ try:
 		# Program stops for X min then re-run 
 		print("")
 		print("Waiting for next Data Backup...")
-		time.sleep(60*updateTime)
+
+		nextUpdateT = datetime.now() + timedelta(minutes=updateTime)
+		nextMidNight = datetime.now() + timedelta(days=1)
+		nextMidNight = nextMidNight.replace(hour=0, minute=0, second=0, microsecond=0)
+		if (nextUpdateT - nextMidNight).total_seconds() >= 0:
+			time.sleep((nextMidNight - datetime.now()).total_seconds())
+		else:
+			time.sleep(60*updateTime)
 
 
 except KeyboardInterrupt:

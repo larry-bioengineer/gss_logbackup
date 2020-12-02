@@ -37,7 +37,10 @@ To read all data from the API, make `GET` requests to the server REST API.
 import requests
 
 # Parsed Format
-requests.get("https://sheet.best/api/sheets/cf969697-682a-40e3-bad4-d54803eeeacf")
+sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog", 
+			headers={
+			'X-Api-Key': '<API Key Here>'
+		})
 ```
 
 which API will return a status code. 
@@ -65,5 +68,8 @@ Data can filtered using exact values and wildcard matching. (Note: date time can
 import requests 
 
 # Getting rows with 101 as "Room"
-sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog/Room/101")
+sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog/Room/101", 
+		headers={
+			'X-Api-Key': config.serverAPIKey
+		})
 ```
