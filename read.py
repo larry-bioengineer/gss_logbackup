@@ -7,8 +7,8 @@ import config
 
 # All rows in CheckoutLog Table 
 sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog")
+# print(sysLog.text)
 
+# Filter Data for Room 101 
+sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog/Room/101")
 print(sysLog.text)
-
-# All rows in CheckoutLog Table 
-# sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog")

@@ -1,7 +1,7 @@
 # Periodic Log Backup for Guest Service Station 
 
 ## Purpose
-The goal of this program is to periodically upload a program to a google sheet. The program is set to run every 5 minute until users press CTR + C. 
+The goal of this program is to periodically upload a program to a google sheet. The program is set to run every 5 minute until users stop the program. 
 
 ## To-Do
 1. allow users to input directory 
@@ -11,20 +11,21 @@ The goal of this program is to periodically upload a program to a google sheet. 
 1. Add API key in a config file 
 2. Run main.py in terminal. 
 3. Log/Data will be uploaded to a Google Drive Server
+4. Press CTR + C to stop the program. 
 
 ## Data Schema
 ```
-	+--------------+----------+
-	| table_name   | fields   |
-	+--------------+----------+
-	| CheckoutLog  | Datetime
-	|              | Room No  |
-	|              | Remarks  | 
-	+--------------+----------+
-	| SystemLog    | Datetime |
-	|              | Status   | 
-	|              | Message  | 
-	+--------------+----------+	
++--------------+----------+
+| table_name   | fields   |
++--------------+----------+
+| CheckoutLog  | Datetime
+|              | Room No  |
+|              | Remarks  | 
++--------------+----------+
+| SystemLog    | Datetime |
+|              | Status   | 
+|              | Message  | 
++--------------+----------+	
 ```
 
 ## How to access the data from Google Driver Server
@@ -59,4 +60,10 @@ $ python3 read.py
 ```
 
 2. (Advance) Filter Rows
-Data can filtered using exact values and wildcard matching. (Note: date time cannot be filtered at this stage and so users will need to filter the datetime after requesting all the data)
+Data can filtered using exact values and wildcard matching. (Note: date time cannot be filtered at this stage and so users will need to filter the datetime after requesting all the data) However, users can still filter the data by room number, status (system statuses) and message (system messages). For example, we can perform a `REQUEST` for Room 101 checkout by
+```python
+import requests 
+
+# Getting rows with 101 as "Room"
+sysLog = requests.get(config.googleSheetAPI + "/tabs/CheckoutLog/Room/101")
+```
