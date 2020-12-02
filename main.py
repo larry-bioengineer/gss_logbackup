@@ -6,11 +6,13 @@
 import requests
 from datetime import datetime, date
 import time
+import config
 
 # Parameters
 checkoutLogPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\Checkout log\\"
 systemLogPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\log\\"
-updateTime = 1.0; # in minutes 
+updateTime = 5.0; # in minutes 
+googleSheetAPI = "https://sheet.best/api/sheets/e4d92608-bec0-46f4-b43e-1d558e790c28"
 
 try: 
 	while True:
@@ -39,7 +41,10 @@ try:
 		# Upload results to Google Sheet 
 		if len(results) > 0:
 			requests.post(
-				"https://sheet.best/api/sheets/e4d92608-bec0-46f4-b43e-1d558e790c28/tabs/Checkout Log",
+				googleSheetAPI + "/tabs/Checkout Log",
+				headers={
+					'X-Api-Key': config.serverAPIKey
+				},
 				json = results
 			)
 		print("CHECKOUT data entry uploaded: " + str(len(results)))	
@@ -62,15 +67,21 @@ try:
 		# Upload results to Google Sheet 
 		if len(results) > 0:
 			requests.post(
-				"https://sheet.best/api/sheets/e4d92608-bec0-46f4-b43e-1d558e790c28/tabs/System Log",
+				googleSheetAPI + "/tabs/System Log",
+				headers={
+					'X-Api-Key': config.serverAPIKey
+				},
 				json = results
-			)
+			)	
 		print("SYSTEM LOG data entry uploaded: " + str(len(results)))
 
 
 
-		# Program stops for 5 min then re-run 
+		# Program stops for X min then re-run 
+		print("")
+		print("Waiting for next Data Backup...")
 		time.sleep(60*updateTime)
+
 
 except KeyboardInterrupt:
 	# press CTRL + C to pause program

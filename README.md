@@ -8,4 +8,6 @@ The goal of this program is to periodically upload a program to a google sheet. 
 2. automatically update file name for extracting system log 
 
 ## How to run
-Run main.py in terminal. 
+1. Run main.py in terminal. 
+2. Log/Data will be uploaded to a Google Drive Server
+3. 
