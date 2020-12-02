@@ -1,6 +1,6 @@
 # Larry To
 # Created on: 12/02/2020
-# To read file from google sheet API 
+# Sample code to read file from google sheet API 
 
 import requests
 import config

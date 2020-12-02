@@ -7,6 +7,7 @@ import requests
 from datetime import datetime, date
 import time
 import config
+from pathlib import Path
 
 # Parameters
 checkoutLogPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\Checkout log\\"
@@ -26,56 +27,60 @@ try:
 		fileName = dayString + ' checkout.log'
 		directory = checkoutLogPath + fileName
 		
+		if not Path(directory).is_file():
+			print("no file found for CHECKOUT LOG Data")
+			
+		else: 
+			with open(directory) as f:
+				lines = f.readlines()[1:]
+				for line in lines:
+					r = line.split("	")
 
-		with open('01-12-2020 checkout.log') as f:
-			lines = f.readlines()[1:]
-			for line in lines:
-				r = line.split("	")
+					# append data within 5 min 
+					datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
+					timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
+					if timeDiff <= updateTime:
+						results.append({'Datetime': r[0], 'Room': r[1], 'Remarks': r[2].rstrip("\n")})
 
-				# append data within 5 min 
-				datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
-				timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
-				if timeDiff <= updateTime:
-					results.append({'Datetime': r[0], 'Room': r[1], 'Remarks': r[2].rstrip("\n")})
-
-		# Upload results to Google Sheet 
-		if len(results) > 0:
-			requests.post(
-				config.googleSheetAPI + "/tabs/CheckoutLog",
-				headers={
-					'X-Api-Key': config.serverAPIKey
-				},
-				json = results
-			)
-		print("CHECKOUT data entry uploaded: " + str(len(results)))	
+			# Upload results to Google Sheet 
+			if len(results) > 0:
+				requests.post(
+					config.googleSheetAPI + "/tabs/CheckoutLog",
+					headers={
+						'X-Api-Key': config.serverAPIKey
+					},
+					json = results
+				)
+			print("CHECKOUT data entry uploaded: " + str(len(results)))	
 
 		# Locate System Log Data from Directory
 		results = []
 		fileName = dayString + ' system.log'
 		directory = systemLogPath + fileName
 
-		with open('01-12-2020 system.log') as f:
-			lines = f.readlines()[1:]
-			for line in lines:
-				r = line.split("	")
-				# append data within 5 min 
-				datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
-				timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
-				if timeDiff <= updateTime:				
-					results.append({'Datetime': r[0], 'Status': r[1], 'Message': r[2].rstrip("\n")})
+		if not Path(directory).is_file():
+			print("no file found for SYSTEM LOG Data")
+		else:
+			with open(directory) as f:
+				lines = f.readlines()[1:]
+				for line in lines:
+					r = line.split("	")
+					# append data within 5 min 
+					datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
+					timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
+					if timeDiff <= updateTime:				
+						results.append({'Datetime': r[0], 'Status': r[1], 'Message': r[2].rstrip("\n")})
 
-		# Upload results to Google Sheet 
-		if len(results) > 0:
-			requests.post(
-				config.googleSheetAPI + "/tabs/SystemLog",
-				headers={
-					'X-Api-Key': config.serverAPIKey
-				},
-				json = results
-			)	
-		print("SYSTEM LOG data entry uploaded: " + str(len(results)))
-
-
+			# Upload results to Google Sheet 
+			if len(results) > 0:
+				requests.post(
+					config.googleSheetAPI + "/tabs/SystemLog",
+					headers={
+						'X-Api-Key': config.serverAPIKey
+					},
+					json = results
+				)	
+			print("SYSTEM LOG data entry uploaded: " + str(len(results)))
 
 		# Program stops for X min then re-run 
 		print("")
