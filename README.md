@@ -9,7 +9,7 @@ The goal of this program is to periodically upload a program to a google sheet. 
 
 ## How to perform periodic data backup
 1. Add API key in a config file 
-2. Run main.py in terminal. 
+2. Run `main.py` in terminal. 
 3. Log/Data will be uploaded to a Google Drive Server
 4. Press CTR + C to stop the program. 
 
@@ -31,6 +31,7 @@ The goal of this program is to periodically upload a program to a google sheet. 
 ## How to access the data from Google Driver Server
 To read all data from the API, make `GET` requests to the server REST API. 
 1. Add API key to a `config.py` file 
+2. (Optional) Run `read.py` in terminal for testing. 
 2. Read Rows 
 ```python
 # Install python "requests" module to use this
