@@ -51,5 +51,12 @@ which API will return a status code.
 | 402 - Payment required             | You already used all of your plan's requests this month.                                                  |
 | 500, 502, 503, 504 - Server Errors | Something went wrong on Sheet.Best's end, we will fix it.                                                 |
 ```
-2. (Advance) Filter Rows
 
+data can be access through `.text`
+```
+$ python3 read.py 
+[{"Datetime":"11/21/2020 11:41:25","Room":"101","Remarks":null},{"Datetime":"11/21/2020 12:01:13","Room":"205","Remarks":null},{"Datetime":"11/22/2020 0:00:00","Room":"304","Remarks":null},{"Datetime":"11/21/2020 11:41:25","Room":"101","Remarks":"remark1"},{"Datetime":"11/21/2020 12:01:13","Room":"102","Remarks":"remark2"},{"Datetime":"11/21/2020 3:11:19","Room":"807","Remarks":"remark3"},{"Datetime":"11/21/2020 11:41:25","Room":"101","Remarks":"remark1"},{"Datetime":"11/21/2020 12:01:13","Room":"102","Remarks":"remark2"},{"Datetime":"11/21/2020 3:11:19","Room":"807","Remarks":"remark3"}
+```
+
+2. (Advance) Filter Rows
+Data can filtered using exact values and wildcard matching. (Note: date time cannot be filtered at this stage and so users will need to filter the datetime after requesting all the data)
