@@ -158,5 +158,5 @@ Date:	Status:	Description:
 12/01/2020 10:12:22 AM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:aI2HLQt89dBoEzvQ7ESRbJgLYQk=
 12/01/2020 10:12:38 AM	Error	Status Code : GatewayTimeout
 12/01/2020 10:12:38 AM	Error	Status Description : Gateway Timeout
-12/02/2020 11:10:38 AM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15625 ms)"}
-12/01/2020 11:10:45 AM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:Arv/uI3A0LD5VMJFyMH14N60kdQ=
+12/02/2020 12:25:38 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15625 ms)"}
+12/01/2020 12:25:45 PM	Warning	AWS 96379b253dfc4a6ebb63bce1973fddc3:Arv/uI3A0LD5VMJFyMH14N60kdQ=

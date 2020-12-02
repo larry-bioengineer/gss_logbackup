@@ -12,7 +12,7 @@ import config
 checkoutLogPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\Checkout log\\"
 systemLogPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\log\\"
 updateTime = 5.0; # in minutes 
-googleSheetAPI = "https://sheet.best/api/sheets/e4d92608-bec0-46f4-b43e-1d558e790c28"
+
 
 try: 
 	while True:
@@ -36,12 +36,12 @@ try:
 				datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
 				timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
 				if timeDiff <= updateTime:
-					results.append({'Date': r[0], 'Room': r[1], 'Remarks': r[2].rstrip("\n")})
+					results.append({'Datetime': r[0], 'Room': r[1], 'Remarks': r[2].rstrip("\n")})
 
 		# Upload results to Google Sheet 
 		if len(results) > 0:
 			requests.post(
-				googleSheetAPI + "/tabs/Checkout Log",
+				config.googleSheetAPI + "/tabs/CheckoutLog",
 				headers={
 					'X-Api-Key': config.serverAPIKey
 				},
@@ -62,12 +62,12 @@ try:
 				datetimeObject = datetime.strptime(r[0], '%m/%d/%Y %I:%M:%S %p') 
 				timeDiff = (datetime.now() - datetimeObject).total_seconds() / 60.0
 				if timeDiff <= updateTime:				
-					results.append({'Date': r[0], 'Status': r[1], 'Message': r[2].rstrip("\n")})
+					results.append({'Datetime': r[0], 'Status': r[1], 'Message': r[2].rstrip("\n")})
 
 		# Upload results to Google Sheet 
 		if len(results) > 0:
 			requests.post(
-				googleSheetAPI + "/tabs/System Log",
+				config.googleSheetAPI + "/tabs/SystemLog",
 				headers={
 					'X-Api-Key': config.serverAPIKey
 				},
