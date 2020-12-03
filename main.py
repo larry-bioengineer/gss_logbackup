@@ -19,7 +19,7 @@ try:
 	while True:
 
 		today = date.today()
-		dayString = today.strftime("%d-%m-%Y")
+		dayString = today.strftime("%m-%d-%Y")
 		print("Periodic Data Backup for Guest Service Station at " + datetime.now().strftime("%m/%d/%Y, %H:%M:%S"))
 
 		# Locate Checkout Data from Directory 
