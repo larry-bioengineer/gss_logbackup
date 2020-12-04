@@ -90,8 +90,9 @@ try:
 		nextMidNight = datetime.now() + timedelta(days=1)
 		nextMidNight = nextMidNight.replace(hour=0, minute=0, second=0, microsecond=0)
 		# if update time is after midnight, adjust the update time to right before midnight
-		if (nextUpdateT - nextMidNight).total_seconds() >= 0:
+		if (nextUpdateT - nextMidNight).total_seconds() > 0:
 			time.sleep((nextMidNight - datetime.now()).total_seconds()-1)
+		
 		else:
 			time.sleep(60*updateTime)
 
