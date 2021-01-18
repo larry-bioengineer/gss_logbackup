@@ -8,24 +8,43 @@ The goal of this program is to periodically upload a program to a google sheet. 
 2. automatically update file name for extracting system log 
 
 ## How to perform periodic data backup
-1. Add API key in a config file 
+1. Add API key and endserver URL in a config file 
 2. Run `main.py` in terminal. 
 3. Log/Data will be uploaded to a Google Drive Server
 4. Press CTR + C to stop the program. 
+5. Check Google sheet if the data has added.
 
 ## Data Schema
 ```
-+--------------+----------+
-| table_name   | fields   |
-+--------------+----------+
-| CheckoutLog  | Datetime
-|              | Room No  |
-|              | Remarks  | 
-+--------------+----------+
-| SystemLog    | Datetime |
-|              | Status   | 
-|              | Message  | 
-+--------------+----------+	
++------------------+-------------------------+
+| table_name       | fields                  |
++------------------+-------------------------+
+| CheckoutLog      | Datetime                |
+|                  | Room No                 |
+|                  | Remarks                 |
++------------------+-------------------------+
+| SystemLog        | Datetime                |
+|                  | Status                  |
+|                  | Message                 |
++------------------+-------------------------+
+| CustomerFeedback | Datetime                |
+|                  | Firstname               |
+|                  | Lastname                |
+|                  | Prefix                  |
+|                  | Email                   |
+|                  | FilterType              |
+|                  | Issue                   |
++------------------+-------------------------+
+| Subscription     | Datetime                |
+|                  | Firstname               |
+|                  | Lastname                |
+|                  | Prefix                  |
+|                  | Email                   |
+|                  | DiscountSubscription    |
+|                  | PromotionSubscription   |
+|                  | SuggestionSubscription  |
+|                  | BlogSubscription        |
++------------------+-------------------------+
 ```
 
 ## How to access the data from Google Driver Server
