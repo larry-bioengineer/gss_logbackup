@@ -1,0 +1,2160 @@
+Date:	Status:	Description:
+12/21/2020 01:40:56 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/21/2020 01:40:56 PM	Warning	Status Flag status: True
+12/21/2020 01:40:56 PM	Success	Success execute dispenser code. Code: Status
+12/21/2020 01:40:56 PM	Warning	AutoEject Flag status: True
+12/21/2020 01:40:57 PM	Success	Success execute dispenser code. Code: AutoEject
+12/21/2020 01:40:57 PM	Warning	Initializing port for Arduino...
+12/21/2020 01:40:57 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/21/2020 01:40:58 PM	Warning	Session request
+12/21/2020 01:40:58 PM	Success	Response: {"accessKey":"ae1c13d3d7614e72a582569cc8e56313","id":"c832044ec2b74d41a521448585b7ee1a"}
+12/21/2020 01:40:58 PM	Warning	Enable Flag status: True
+12/21/2020 01:40:58 PM	Success	Success execute dispenser code. Code: Enable
+12/21/2020 01:40:58 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/21/2020 01:40:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 0
+12/21/2020 01:40:59 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 01:41:00 PM	Warning	Arduino received data: 0 > 2500? 0
+12/21/2020 01:41:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 57
+12/21/2020 01:41:02 PM	Warning	Arduino received data: 61 > 2500? 0
+12/21/2020 01:41:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 130
+12/21/2020 01:41:04 PM	Warning	Arduino received data: 135 > 2500? 0
+12/21/2020 01:41:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 204
+12/21/2020 01:41:06 PM	Warning	Arduino received data: 209 > 2500? 0
+12/21/2020 01:41:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 279
+12/21/2020 01:41:08 PM	Warning	Arduino received data: 284 > 2500? 0
+12/21/2020 01:41:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 354
+12/21/2020 01:41:10 PM	Warning	Arduino received data: 359 > 2500? 0
+12/21/2020 01:41:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 429
+12/21/2020 01:41:12 PM	Warning	Arduino received data: 434 > 2500? 0
+12/21/2020 01:41:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 503
+12/21/2020 01:41:14 PM	Warning	Arduino received data: 508 > 2500? 0
+12/21/2020 01:41:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 578
+12/21/2020 01:41:16 PM	Warning	Arduino received data: 584 > 2500? 0
+12/21/2020 01:41:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 654
+12/21/2020 01:41:18 PM	Warning	Arduino received data: 659 > 2500? 0
+12/21/2020 01:41:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 729
+12/21/2020 01:41:20 PM	Warning	Arduino received data: 734 > 2500? 0
+12/21/2020 01:41:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 803
+12/21/2020 01:41:22 PM	Warning	Arduino received data: 808 > 2500? 0
+12/21/2020 01:41:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 878
+12/21/2020 01:41:24 PM	Warning	Arduino received data: 883 > 2500? 0
+12/21/2020 01:41:28 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/21/2020 01:41:28 PM	Warning	Status Flag status: True
+12/21/2020 01:41:29 PM	Success	Success execute dispenser code. Code: Status
+12/21/2020 01:41:29 PM	Warning	AutoEject Flag status: True
+12/21/2020 01:41:29 PM	Success	Success execute dispenser code. Code: AutoEject
+12/21/2020 01:41:29 PM	Warning	Initializing port for Arduino...
+12/21/2020 01:41:29 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/21/2020 01:41:30 PM	Warning	Session request
+12/21/2020 01:41:30 PM	Success	Response: {"accessKey":"00fa07599ab743078e309987cf16d9c3","id":"9a4f9111072e455eb9365936a9db1d95"}
+12/21/2020 01:41:30 PM	Warning	Enable Flag status: True
+12/21/2020 01:41:30 PM	Success	Success execute dispenser code. Code: Enable
+12/21/2020 01:41:30 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/21/2020 01:41:32 PM	Warning	Arduino received data: ebou5me: 28417, Millis: 30680
+12/21/2020 01:41:32 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 01:41:33 PM	Warning	Arduino received data: 2270 > 2ast debounce time: 28417, Millis: 30597
+12/21/2020 01:41:34 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 01:41:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30680
+12/21/2020 01:41:36 PM	Warning	Arduino received data: 2270 > 25Debounce time: 2500, Last debounce time: 0, Millis: 0
+12/21/2020 01:41:37 PM	Warning	Arduino received data: 0 > 2500? 0
+12/21/2020 01:42:06 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/21/2020 01:42:06 PM	Warning	Status Flag status: True
+12/21/2020 01:42:06 PM	Success	Success execute dispenser code. Code: Status
+12/21/2020 01:42:06 PM	Warning	AutoEject Flag status: True
+12/21/2020 01:42:07 PM	Success	Success execute dispenser code. Code: AutoEject
+12/21/2020 01:42:07 PM	Warning	Initializing port for Arduino...
+12/21/2020 01:42:07 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/21/2020 01:42:07 PM	Warning	Session request
+12/21/2020 01:42:07 PM	Success	Response: {"accessKey":"2a015a93b182457b8f2cacd60862d70e","id":"550920c686db4414836a1f0a40a3e8cb"}
+12/21/2020 01:42:07 PM	Warning	Enable Flag status: True
+12/21/2020 01:42:08 PM	Success	Success execute dispenser code. Code: Enable
+12/21/2020 01:42:08 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/21/2020 01:42:09 PM	Warning	Arduino received data: 
+12/21/2020 01:42:09 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 01:42:10 PM	Warning	Arduino received data: Deb2 > 2500? 0
+12/21/2020 01:42:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce Debounce time: 2500, Last debounce time: 0, Millis: 0
+12/21/2020 01:42:12 PM	Warning	Arduino received data: 0 > 2500? 0
+12/21/2020 01:42:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 57
+12/21/2020 01:57:35 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/21/2020 01:57:35 PM	Warning	Status Flag status: True
+12/21/2020 01:57:35 PM	Success	Success execute dispenser code. Code: Status
+12/21/2020 01:57:35 PM	Warning	AutoEject Flag status: True
+12/21/2020 01:57:36 PM	Success	Success execute dispenser code. Code: AutoEject
+12/21/2020 01:57:36 PM	Warning	Initializing port for Arduino...
+12/21/2020 01:57:36 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/21/2020 01:57:36 PM	Warning	Arduino received data: llis24781, Millis: 926932
+12/21/2020 01:57:36 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 01:57:37 PM	Warning	Session request
+12/21/2020 01:57:37 PM	Success	Response: {"accessKey":"4aef33a8ce114d9ca9b581edce3f9cf5","id":"14af5d0f0a104fe280d39f15a935fb14"}
+12/21/2020 01:57:37 PM	Warning	Enable Flag status: True
+12/21/2020 01:57:37 PM	Warning	Arduino received data: 2160 > 2500? 0
+12/21/2020 01:57:38 PM	Warning	Arduino received data: Debounc924781, Millis: 926849
+12/21/2020 01:57:39 PM	Warning	Arduino received data: 2076 > 2500? 0
+12/21/2020 01:57:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 924781, Millis: 926932
+12/21/2020 01:57:41 PM	Warning	Arduino received data: 2160 > 2500? 0
+12/21/2020 01:57:42 PM	Warning	Arduino received data: DebounceDebounce time: 2500, Last debounce time: 0, Millis: 0
+12/21/2020 01:57:43 PM	Warning	Arduino received data: 0 > 2500? 0
+12/21/2020 01:57:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 57
+12/21/2020 01:57:45 PM	Warning	Arduino received data: 61 > 2500? 0
+12/21/2020 01:57:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 130
+12/21/2020 01:57:46 PM	Warning	Arduino received data: 135 > 2500? 0
+12/21/2020 01:57:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 204
+12/21/2020 01:57:48 PM	Warning	Arduino received data: 209 > 2500? 0
+12/21/2020 01:57:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 279
+12/21/2020 01:57:50 PM	Warning	Arduino received data: 284 > 2500? 0
+12/21/2020 01:57:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 354
+12/21/2020 01:57:52 PM	Warning	Arduino received data: 359 > 2500? 0
+12/21/2020 01:57:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 429
+12/21/2020 01:57:54 PM	Warning	Arduino received data: 434 > 2500? 0
+12/21/2020 01:57:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 503
+12/21/2020 01:57:56 PM	Warning	Arduino received data: 508 > 2500? 0
+12/21/2020 01:57:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 578
+12/21/2020 01:57:57 PM	Warning	Arduino received data: 584 > 2500? 0
+12/21/2020 01:57:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 654
+12/21/2020 01:57:59 PM	Warning	Arduino received data: 659 > 2500? 0
+12/21/2020 01:58:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 729
+12/21/2020 01:58:01 PM	Warning	Arduino received data: 734 > 2500? 0
+12/21/2020 01:58:02 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 01:58:02 PM	Warning	Initializing port for Arduino...
+12/21/2020 01:58:02 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 01:58:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 803
+12/21/2020 01:58:03 PM	Warning	Arduino received data: 808 > 2500? 0
+12/21/2020 01:58:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 878
+12/21/2020 01:58:05 PM	Warning	Arduino received data: 883 > 2500? 0
+12/21/2020 01:58:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 953
+12/21/2020 01:58:06 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 01:58:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1028
+12/21/2020 01:58:08 PM	Warning	Arduino received data: 1034 > 2500? 0
+12/21/2020 01:58:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1104
+12/21/2020 01:58:09 PM	Warning	Arduino received data: 1111 > 2500? 0
+12/21/2020 01:58:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1182
+12/21/2020 01:58:11 PM	Warning	Arduino received data: 1188 > 2500? 0
+12/21/2020 01:58:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1259
+12/21/2020 01:58:13 PM	Warning	Arduino received data: 1265 > 2500? 0
+12/21/2020 01:58:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1336
+12/21/2020 01:58:14 PM	Warning	Arduino received data: 1342 > 2500? 0
+12/21/2020 01:58:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1413
+12/21/2020 01:58:16 PM	Warning	Arduino received data: 1419 > 2500? 0
+12/21/2020 01:58:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1489
+12/21/2020 01:58:18 PM	Warning	Arduino received data: 1496 > 2500? 0
+12/21/2020 01:58:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1566
+12/21/2020 01:58:20 PM	Warning	Arduino received data: 1572 > 2500? 0
+12/21/2020 01:58:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1643
+12/21/2020 01:58:21 PM	Warning	Arduino received data: 1650 > 2500? 0
+12/21/2020 01:58:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1721
+12/21/2020 01:58:23 PM	Warning	Arduino received data: 1727 > 2500? 0
+12/21/2020 01:58:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1798
+12/21/2020 01:58:25 PM	Warning	Arduino received data: 1804 > 2500? 0
+12/21/2020 01:58:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1874
+12/21/2020 01:58:26 PM	Warning	Arduino received data: 1881 > 2500? 0
+12/21/2020 01:58:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 1951
+12/21/2020 01:58:28 PM	Warning	Arduino received data: 1957 > 2500? 0
+12/21/2020 01:58:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2028
+12/21/2020 01:58:29 PM	Warning	Arduino received data: 2034 > 2500? 0
+12/21/2020 01:58:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2105
+12/21/2020 01:58:31 PM	Warning	Arduino received data: 2111 > 2500? 0
+12/21/2020 01:58:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2183
+12/21/2020 01:58:32 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 01:58:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2259
+12/21/2020 01:58:34 PM	Warning	Arduino received data: 2266 > 2500? 0
+12/21/2020 01:58:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2336
+12/21/2020 01:58:35 PM	Warning	Arduino received data: 2342 > 2500? 0
+12/21/2020 01:58:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2413
+12/21/2020 01:58:37 PM	Warning	Arduino received data: 2419 > 2500? 0
+12/21/2020 01:58:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 0, Millis: 2490
+12/21/2020 01:58:38 PM	Warning	Arduino received data: 2496 > 2500? 1
+12/21/2020 01:58:39 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 1
+12/21/2020 01:58:40 PM	Warning	Arduino received data: not detected
+12/21/2020 01:58:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 2630
+12/21/2020 01:58:41 PM	Warning	Arduino received data: 63 > 2500? 0
+12/21/2020 01:58:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 2708
+12/21/2020 01:58:43 PM	Warning	Arduino received data: 142 > 2500? 0
+12/21/2020 01:58:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 2788
+12/21/2020 01:58:44 PM	Warning	Arduino received data: 221 > 2500? 0
+12/21/2020 01:58:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 2867
+12/21/2020 01:58:45 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 01:58:46 PM	Warning	Arduino received data: 300 > 2500? 0
+12/21/2020 01:58:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 2946
+12/21/2020 01:58:48 PM	Warning	Arduino received data: 379 > 2500? 0
+12/21/2020 01:58:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3024
+12/21/2020 01:58:50 PM	Warning	Arduino received data: 458 > 2500? 0
+12/21/2020 01:58:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3103
+12/21/2020 01:58:51 PM	Warning	Arduino received data: 536 > 2500? 0
+12/21/2020 01:58:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3183
+12/21/2020 01:58:53 PM	Warning	Arduino received data: 616 > 2500? 0
+12/21/2020 01:58:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3262
+12/21/2020 01:58:55 PM	Warning	Arduino received data: 695 > 2500? 0
+12/21/2020 01:58:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3341
+12/21/2020 01:58:57 PM	Warning	Arduino received data: 774 > 2500? 0
+12/21/2020 01:58:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3420
+12/21/2020 01:58:59 PM	Warning	Arduino received data: 853 > 2500? 0
+12/21/2020 01:59:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3499
+12/21/2020 01:59:00 PM	Warning	Arduino received data: 932 > 2500? 0
+12/21/2020 01:59:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3578
+12/21/2020 01:59:02 PM	Warning	Arduino received data: 1012 > 2500? 0
+12/21/2020 01:59:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3658
+12/21/2020 01:59:03 PM	Warning	Arduino received data: 1091 > 2500? 0
+12/21/2020 01:59:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3738
+12/21/2020 01:59:05 PM	Warning	Arduino received data: 1171 > 2500? 0
+12/21/2020 01:59:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3818
+12/21/2020 01:59:07 PM	Warning	Arduino received data: 1251 > 2500? 0
+12/21/2020 01:59:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3898
+12/21/2020 01:59:09 PM	Warning	Arduino received data: 1331 > 2500? 0
+12/21/2020 01:59:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 3979
+12/21/2020 01:59:10 PM	Warning	Arduino received data: 1412 > 2500? 0
+12/21/2020 01:59:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4059
+12/21/2020 01:59:12 PM	Warning	Arduino received data: 1492 > 2500? 0
+12/21/2020 01:59:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4139
+12/21/2020 01:59:13 PM	Warning	Arduino received data: 1572 > 2500? 0
+12/21/2020 01:59:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4218
+12/21/2020 01:59:15 PM	Warning	Arduino received data: 1652 > 2500? 0
+12/21/2020 01:59:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4298
+12/21/2020 01:59:16 PM	Warning	Arduino received data: 1731 > 2500? 0
+12/21/2020 01:59:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4379
+12/21/2020 01:59:18 PM	Warning	Arduino received data: 1812 > 2500? 0
+12/21/2020 01:59:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4459
+12/21/2020 01:59:19 PM	Warning	Arduino received data: 1892 > 2500? 0
+12/21/2020 01:59:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4539
+12/21/2020 01:59:21 PM	Warning	Arduino received data: 1972 > 2500? 0
+12/21/2020 01:59:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4619
+12/21/2020 01:59:23 PM	Warning	Arduino received data: 2052 > 2500? 0
+12/21/2020 01:59:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4699
+12/21/2020 01:59:24 PM	Warning	Arduino received data: 2132 > 2500? 0
+12/21/2020 01:59:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4780
+12/21/2020 01:59:26 PM	Warning	Arduino received data: 2213 > 2500? 0
+12/21/2020 01:59:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4859
+12/21/2020 01:59:27 PM	Warning	Arduino received data: 2293 > 2500? 0
+12/21/2020 01:59:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 4939
+12/21/2020 01:59:29 PM	Warning	Arduino received data: 2372 > 2500? 0
+12/21/2020 01:59:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 5019
+12/21/2020 01:59:31 PM	Warning	Arduino received data: 2452 > 2500? 0
+12/21/2020 01:59:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 2573, Millis: 5099
+12/21/2020 01:59:33 PM	Warning	Arduino received data: 2532 > 2500? 1
+12/21/2020 01:59:34 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 01:59:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5225
+12/21/2020 01:59:36 PM	Warning	Arduino received data: 63 > 2500? 0
+12/21/2020 01:59:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5303
+12/21/2020 01:59:38 PM	Warning	Arduino received data: 142 > 2500? 0
+12/21/2020 01:59:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5383
+12/21/2020 01:59:39 PM	Warning	Arduino received data: 221 > 2500? 0
+12/21/2020 01:59:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5462
+12/21/2020 01:59:41 PM	Warning	Arduino received data: 300 > 2500? 0
+12/21/2020 01:59:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5540
+12/21/2020 01:59:43 PM	Warning	Arduino received data: 379 > 2500? 0
+12/21/2020 01:59:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5619
+12/21/2020 01:59:45 PM	Warning	Arduino received data: 457 > 2500? 0
+12/21/2020 01:59:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5698
+12/21/2020 01:59:46 PM	Warning	Arduino received data: 536 > 2500? 0
+12/21/2020 01:59:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5778
+12/21/2020 01:59:48 PM	Warning	Arduino received data: 616 > 2500? 0
+12/21/2020 01:59:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5857
+12/21/2020 01:59:49 PM	Warning	Arduino received data: 695 > 2500? 0
+12/21/2020 01:59:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 5936
+12/21/2020 01:59:51 PM	Warning	Arduino received data: 774 > 2500? 0
+12/21/2020 01:59:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6014
+12/21/2020 01:59:53 PM	Warning	Arduino received data: 853 > 2500? 0
+12/21/2020 01:59:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6093
+12/21/2020 01:59:54 PM	Warning	Arduino received data: 931 > 2500? 0
+12/21/2020 01:59:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6172
+12/21/2020 01:59:56 PM	Warning	Arduino received data: 1011 > 2500? 0
+12/21/2020 01:59:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6253
+12/21/2020 01:59:57 PM	Warning	Arduino received data: 1091 > 2500? 0
+12/21/2020 01:59:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6333
+12/21/2020 01:59:59 PM	Warning	Arduino received data: 1171 > 2500? 0
+12/21/2020 02:00:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6413
+12/21/2020 02:00:00 PM	Warning	Arduino received data: 1251 > 2500? 0
+12/21/2020 02:00:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6493
+12/21/2020 02:00:02 PM	Warning	Arduino received data: 1331 > 2500? 0
+12/21/2020 02:00:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6574
+12/21/2020 02:00:04 PM	Warning	Arduino received data: 1412 > 2500? 0
+12/21/2020 02:00:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6653
+12/21/2020 02:00:06 PM	Warning	Arduino received data: 1492 > 2500? 0
+12/21/2020 02:00:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6733
+12/21/2020 02:00:07 PM	Warning	Arduino received data: 1571 > 2500? 0
+12/21/2020 02:00:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6813
+12/21/2020 02:00:09 PM	Warning	Arduino received data: 1651 > 2500? 0
+12/21/2020 02:00:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6893
+12/21/2020 02:00:11 PM	Warning	Arduino received data: 1731 > 2500? 0
+12/21/2020 02:00:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 6974
+12/21/2020 02:00:13 PM	Warning	Arduino received data: 1812 > 2500? 0
+12/21/2020 02:00:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7054
+12/21/2020 02:00:14 PM	Warning	Arduino received data: 1892 > 2500? 0
+12/21/2020 02:00:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7134
+12/21/2020 02:00:16 PM	Warning	Arduino received data: 1972 > 2500? 0
+12/21/2020 02:00:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7214
+12/21/2020 02:00:17 PM	Warning	Arduino received data: 2052 > 2500? 0
+12/21/2020 02:00:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7293
+12/21/2020 02:00:19 PM	Warning	Arduino received data: 2132 > 2500? 0
+12/21/2020 02:00:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7374
+12/21/2020 02:00:21 PM	Warning	Arduino received data: 2212 > 2500? 0
+12/21/2020 02:00:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7454
+12/21/2020 02:00:22 PM	Warning	Arduino received data: 2292 > 2500? 0
+12/21/2020 02:00:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7534
+12/21/2020 02:00:24 PM	Warning	Arduino received data: 2372 > 2500? 0
+12/21/2020 02:00:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7614
+12/21/2020 02:00:25 PM	Warning	Arduino received data: 2452 > 2500? 0
+12/21/2020 02:00:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 5168, Millis: 7694
+12/21/2020 02:00:27 PM	Warning	Arduino received data: 2532 > 2500? 1
+12/21/2020 02:00:28 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:00:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 7820
+12/21/2020 02:00:29 PM	Warning	Arduino received data: 64 > 2500? 0
+12/21/2020 02:00:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 7898
+12/21/2020 02:00:31 PM	Warning	Arduino received data: 143 > 2500? 0
+12/21/2020 02:00:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 7977
+12/21/2020 02:00:33 PM	Warning	Arduino received data: 222 > 2500? 0
+12/21/2020 02:00:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8056
+12/21/2020 02:00:34 PM	Warning	Arduino received data: 300 > 2500? 0
+12/21/2020 02:00:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8135
+12/21/2020 02:00:36 PM	Warning	Arduino received data: 379 > 2500? 0
+12/21/2020 02:00:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8214
+12/21/2020 02:00:38 PM	Warning	Arduino received data: 458 > 2500? 0
+12/21/2020 02:00:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8293
+12/21/2020 02:00:40 PM	Warning	Arduino received data: 537 > 2500? 0
+12/21/2020 02:00:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8373
+12/21/2020 02:00:42 PM	Warning	Arduino received data: 617 > 2500? 0
+12/21/2020 02:00:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8452
+12/21/2020 02:00:43 PM	Warning	Arduino received data: 696 > 2500? 0
+12/21/2020 02:00:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8530
+12/21/2020 02:00:45 PM	Warning	Arduino received data: 775 > 2500? 0
+12/21/2020 02:00:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8609
+12/21/2020 02:00:46 PM	Warning	Arduino received data: 853 > 2500? 0
+12/21/2020 02:00:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8688
+12/21/2020 02:00:48 PM	Warning	Arduino received data: 932 > 2500? 0
+12/21/2020 02:00:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8767
+12/21/2020 02:00:49 PM	Warning	Arduino received data: 1012 > 2500? 0
+12/21/2020 02:00:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8848
+12/21/2020 02:00:51 PM	Warning	Arduino received data: 1092 > 2500? 0
+12/21/2020 02:00:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 8928
+12/21/2020 02:00:53 PM	Warning	Arduino received data: 1172 > 2500? 0
+12/21/2020 02:00:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9008
+12/21/2020 02:00:55 PM	Warning	Arduino received data: 1252 > 2500? 0
+12/21/2020 02:00:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9088
+12/21/2020 02:00:56 PM	Warning	Arduino received data: 1332 > 2500? 0
+12/21/2020 02:00:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9167
+12/21/2020 02:00:58 PM	Warning	Arduino received data: 1413 > 2500? 0
+12/21/2020 02:00:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9248
+12/21/2020 02:00:59 PM	Warning	Arduino received data: 1492 > 2500? 0
+12/21/2020 02:01:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9328
+12/21/2020 02:01:01 PM	Warning	Arduino received data: 1572 > 2500? 0
+12/21/2020 02:01:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9408
+12/21/2020 02:01:02 PM	Warning	Arduino received data: 1652 > 2500? 0
+12/21/2020 02:01:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9488
+12/21/2020 02:01:04 PM	Warning	Arduino received data: 1732 > 2500? 0
+12/21/2020 02:01:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9569
+12/21/2020 02:01:05 PM	Warning	Arduino received data: 1813 > 2500? 0
+12/21/2020 02:01:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9649
+12/21/2020 02:01:07 PM	Warning	Arduino received data: 1893 > 2500? 0
+12/21/2020 02:01:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9729
+12/21/2020 02:01:08 PM	Warning	Arduino received data: 1973 > 2500? 0
+12/21/2020 02:01:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9808
+12/21/2020 02:01:10 PM	Warning	Arduino received data: 2053 > 2500? 0
+12/21/2020 02:01:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9888
+12/21/2020 02:01:12 PM	Warning	Arduino received data: 2132 > 2500? 0
+12/21/2020 02:01:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 9969
+12/21/2020 02:01:13 PM	Warning	Arduino received data: 2213 > 2500? 0
+12/21/2020 02:01:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 10049
+12/21/2020 02:01:15 PM	Warning	Arduino received data: 2294 > 2500? 0
+12/21/2020 02:01:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 10130
+12/21/2020 02:01:16 PM	Warning	Arduino received data: 2375 > 2500? 0
+12/21/2020 02:01:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 10211
+12/21/2020 02:01:18 PM	Warning	Arduino received data: 2456 > 2500? 0
+12/21/2020 02:01:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 7762, Millis: 10292
+12/21/2020 02:01:19 PM	Warning	Arduino received data: 2537 > 2500? 1
+12/21/2020 02:01:20 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:01:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10420
+12/21/2020 02:01:22 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:01:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10501
+12/21/2020 02:01:23 PM	Warning	Arduino received data: 147 > 2500? 0
+12/21/2020 02:01:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10582
+12/21/2020 02:01:25 PM	Warning	Arduino received data: 228 > 2500? 0
+12/21/2020 02:01:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10662
+12/21/2020 02:01:27 PM	Warning	Arduino received data: 309 > 2500? 0
+12/21/2020 02:01:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10743
+12/21/2020 02:01:29 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:01:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10824
+12/21/2020 02:01:31 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:01:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10906
+12/21/2020 02:01:32 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:01:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 10987
+12/21/2020 02:01:34 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:01:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11068
+12/21/2020 02:01:35 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:01:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11149
+12/21/2020 02:01:37 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:01:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11230
+12/21/2020 02:01:38 PM	Warning	Arduino received data: 877 > 2500? 0
+12/21/2020 02:01:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11312
+12/21/2020 02:01:40 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:01:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11393
+12/21/2020 02:01:42 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:01:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11474
+12/21/2020 02:01:44 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:01:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11556
+12/21/2020 02:01:45 PM	Warning	Arduino received data: 1203 > 2500? 0
+12/21/2020 02:01:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11639
+12/21/2020 02:01:47 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:01:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11721
+12/21/2020 02:01:49 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:01:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11803
+12/21/2020 02:01:50 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:01:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11885
+12/21/2020 02:01:52 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:01:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 11968
+12/21/2020 02:01:53 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:01:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12050
+12/21/2020 02:01:55 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:01:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12132
+12/21/2020 02:01:56 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:01:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12214
+12/21/2020 02:01:58 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:01:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12296
+12/21/2020 02:02:00 PM	Warning	Arduino received data: 1943 > 2500? 0
+12/21/2020 02:02:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12379
+12/21/2020 02:02:02 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:02:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12461
+12/21/2020 02:02:03 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:02:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12542
+12/21/2020 02:02:05 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:02:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12624
+12/21/2020 02:02:07 PM	Warning	Arduino received data: 2272 > 2500? 0
+12/21/2020 02:02:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12707
+12/21/2020 02:02:08 PM	Warning	Arduino received data: 2354 > 2500? 0
+12/21/2020 02:02:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12789
+12/21/2020 02:02:10 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:02:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 10361, Millis: 12871
+12/21/2020 02:02:11 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:02:12 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:02:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 12999
+12/21/2020 02:02:14 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:02:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13079
+12/21/2020 02:02:16 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:02:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13160
+12/21/2020 02:02:18 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:02:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13242
+12/21/2020 02:02:20 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:02:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13323
+12/21/2020 02:02:21 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:02:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13404
+12/21/2020 02:02:23 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:02:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13485
+12/21/2020 02:02:24 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:02:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13566
+12/21/2020 02:02:26 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:02:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13647
+12/21/2020 02:02:27 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:02:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13728
+12/21/2020 02:02:29 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:02:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13809
+12/21/2020 02:02:31 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:02:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13890
+12/21/2020 02:02:32 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:02:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 13972
+12/21/2020 02:02:34 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:02:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14054
+12/21/2020 02:02:35 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:02:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14136
+12/21/2020 02:02:37 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:02:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14218
+12/21/2020 02:02:38 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:02:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14301
+12/21/2020 02:02:40 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:02:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14383
+12/21/2020 02:02:42 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:02:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14465
+12/21/2020 02:02:44 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:02:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14546
+12/21/2020 02:02:45 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:02:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14629
+12/21/2020 02:02:47 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:02:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14711
+12/21/2020 02:02:48 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:02:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14793
+12/21/2020 02:02:50 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:02:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14875
+12/21/2020 02:02:51 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:02:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 14957
+12/21/2020 02:02:53 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:02:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15040
+12/21/2020 02:02:54 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:02:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15122
+12/21/2020 02:02:56 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:02:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15204
+12/21/2020 02:02:57 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:02:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15286
+12/21/2020 02:02:59 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:02:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15369
+12/21/2020 02:03:00 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:03:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 12941, Millis: 15451
+12/21/2020 02:03:02 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:03:02 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:03:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15579
+12/21/2020 02:03:04 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:03:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15659
+12/21/2020 02:03:05 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:03:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15739
+12/21/2020 02:03:07 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:03:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15820
+12/21/2020 02:03:08 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:03:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15902
+12/21/2020 02:03:10 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:03:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 15983
+12/21/2020 02:03:11 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:03:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16064
+12/21/2020 02:03:13 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:03:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16145
+12/21/2020 02:03:15 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:03:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16227
+12/21/2020 02:03:17 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:03:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16308
+12/21/2020 02:03:19 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:03:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16389
+12/21/2020 02:03:20 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:03:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16470
+12/21/2020 02:03:22 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:03:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16550
+12/21/2020 02:03:24 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:03:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16633
+12/21/2020 02:03:26 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:03:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16715
+12/21/2020 02:03:27 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:03:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16797
+12/21/2020 02:03:29 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:03:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16879
+12/21/2020 02:03:31 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:03:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 16962
+12/21/2020 02:03:33 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:03:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17044
+12/21/2020 02:03:35 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:03:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17126
+12/21/2020 02:03:36 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:03:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17208
+12/21/2020 02:03:38 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:03:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17291
+12/21/2020 02:03:39 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:03:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17373
+12/21/2020 02:03:41 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:03:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17455
+12/21/2020 02:03:43 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:03:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17537
+12/21/2020 02:03:44 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:03:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17618
+12/21/2020 02:03:46 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:03:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17701
+12/21/2020 02:03:48 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:03:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17783
+12/21/2020 02:03:50 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:03:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17865
+12/21/2020 02:03:51 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:03:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 17947
+12/21/2020 02:03:53 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:03:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 15520, Millis: 18030
+12/21/2020 02:03:55 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:03:56 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:03:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18158
+12/21/2020 02:03:57 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:03:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18238
+12/21/2020 02:03:59 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:04:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18319
+12/21/2020 02:04:01 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:04:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18400
+12/21/2020 02:04:02 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:04:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18481
+12/21/2020 02:04:04 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:04:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18563
+12/21/2020 02:04:06 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:04:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18643
+12/21/2020 02:04:08 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:04:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18724
+12/21/2020 02:04:10 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:04:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18805
+12/21/2020 02:04:12 PM	Warning	Arduino received data: 712 > 2500? 0
+12/21/2020 02:04:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18887
+12/21/2020 02:04:14 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:04:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 18968
+12/21/2020 02:04:15 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:04:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19049
+12/21/2020 02:04:17 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:04:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19130
+12/21/2020 02:04:19 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:04:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19212
+12/21/2020 02:04:20 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:04:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19295
+12/21/2020 02:04:22 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:04:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19377
+12/21/2020 02:04:23 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:04:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19459
+12/21/2020 02:04:25 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:04:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19540
+12/21/2020 02:04:26 PM	Warning	Arduino received data: 1448 > 2500? 0
+12/21/2020 02:04:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19623
+12/21/2020 02:04:28 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:04:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19705
+12/21/2020 02:04:29 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:04:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19787
+12/21/2020 02:04:31 PM	Warning	Arduino received data: 1694 > 2500? 0
+12/21/2020 02:04:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19869
+12/21/2020 02:04:32 PM	Warning	Arduino received data: 1776 > 2500? 0
+12/21/2020 02:04:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 19952
+12/21/2020 02:04:34 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:04:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20034
+12/21/2020 02:04:36 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:04:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20116
+12/21/2020 02:04:37 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:04:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20198
+12/21/2020 02:04:39 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:04:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20280
+12/21/2020 02:04:41 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:04:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20363
+12/21/2020 02:04:43 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:04:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20445
+12/21/2020 02:04:44 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:04:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20527
+12/21/2020 02:04:46 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:04:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 18100, Millis: 20609
+12/21/2020 02:04:47 PM	Warning	Arduino received data: 2516 > 2500? 1
+12/21/2020 02:04:48 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:04:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 20737
+12/21/2020 02:04:50 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:04:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 20817
+12/21/2020 02:04:52 PM	Warning	Arduino received data: 147 > 2500? 0
+12/21/2020 02:04:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 20898
+12/21/2020 02:04:53 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:04:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 20979
+12/21/2020 02:04:55 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:04:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21060
+12/21/2020 02:04:56 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:04:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21141
+12/21/2020 02:04:58 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:04:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21223
+12/21/2020 02:04:59 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:05:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21304
+12/21/2020 02:05:01 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:05:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21385
+12/21/2020 02:05:03 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:05:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21466
+12/21/2020 02:05:05 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:05:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21547
+12/21/2020 02:05:06 PM	Warning	Arduino received data: 877 > 2500? 0
+12/21/2020 02:05:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21628
+12/21/2020 02:05:08 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:05:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21709
+12/21/2020 02:05:09 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:05:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21791
+12/21/2020 02:05:11 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:05:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21873
+12/21/2020 02:05:13 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:05:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 21956
+12/21/2020 02:05:15 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:05:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22038
+12/21/2020 02:05:16 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:05:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22120
+12/21/2020 02:05:18 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:05:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22202
+12/21/2020 02:05:20 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:05:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22285
+12/21/2020 02:05:21 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:05:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22367
+12/21/2020 02:05:23 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:05:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22449
+12/21/2020 02:05:24 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:05:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22531
+12/21/2020 02:05:26 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:05:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22612
+12/21/2020 02:05:27 PM	Warning	Arduino received data: 1943 > 2500? 0
+12/21/2020 02:05:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22695
+12/21/2020 02:05:29 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:05:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22777
+12/21/2020 02:05:31 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:05:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22859
+12/21/2020 02:05:33 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:05:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 22941
+12/21/2020 02:05:35 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:05:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 23024
+12/21/2020 02:05:36 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:05:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 23106
+12/21/2020 02:05:38 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:05:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 20678, Millis: 23188
+12/21/2020 02:05:39 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:05:40 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:05:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23316
+12/21/2020 02:05:42 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:05:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23396
+12/21/2020 02:05:43 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:05:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23477
+12/21/2020 02:05:45 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:05:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23559
+12/21/2020 02:05:46 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:05:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23640
+12/21/2020 02:05:48 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:05:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23720
+12/21/2020 02:05:49 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:05:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23801
+12/21/2020 02:05:51 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:05:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23883
+12/21/2020 02:05:52 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:05:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 23964
+12/21/2020 02:05:54 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:05:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24045
+12/21/2020 02:05:56 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:05:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24126
+12/21/2020 02:05:58 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:05:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24207
+12/21/2020 02:06:00 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:06:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24289
+12/21/2020 02:06:02 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:06:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24371
+12/21/2020 02:06:04 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:06:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24453
+12/21/2020 02:06:06 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:06:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24535
+12/21/2020 02:06:07 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:06:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24617
+12/21/2020 02:06:09 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:06:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24699
+12/21/2020 02:06:11 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:06:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24781
+12/21/2020 02:06:13 PM	Warning	Arduino received data: 1530 > 2500? 0
+12/21/2020 02:06:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24863
+12/21/2020 02:06:15 PM	Warning	Arduino received data: 1612 > 2500? 0
+12/21/2020 02:06:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 24946
+12/21/2020 02:06:16 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:06:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25028
+12/21/2020 02:06:18 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:06:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25110
+12/21/2020 02:06:20 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:06:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25192
+12/21/2020 02:06:21 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:06:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25274
+12/21/2020 02:06:23 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:06:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25357
+12/21/2020 02:06:24 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:06:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25439
+12/21/2020 02:06:26 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:06:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25521
+12/21/2020 02:06:28 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:06:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25603
+12/21/2020 02:06:30 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:06:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25686
+12/21/2020 02:06:31 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:06:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 23258, Millis: 25767
+12/21/2020 02:06:33 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:06:33 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:06:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 25895
+12/21/2020 02:06:35 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:06:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 25975
+12/21/2020 02:06:36 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:06:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26056
+12/21/2020 02:06:38 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:06:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26137
+12/21/2020 02:06:39 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:06:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26219
+12/21/2020 02:06:41 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:06:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26300
+12/21/2020 02:06:42 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:06:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26381
+12/21/2020 02:06:44 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:06:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26462
+12/21/2020 02:06:45 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:06:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26544
+12/21/2020 02:06:47 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:06:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26625
+12/21/2020 02:06:49 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:06:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26705
+12/21/2020 02:06:51 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:06:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26786
+12/21/2020 02:06:52 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:06:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26867
+12/21/2020 02:06:54 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:06:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 26950
+12/21/2020 02:06:55 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:06:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27032
+12/21/2020 02:06:57 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:06:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27114
+12/21/2020 02:06:58 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:06:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27196
+12/21/2020 02:07:00 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:07:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27279
+12/21/2020 02:07:01 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:07:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27361
+12/21/2020 02:07:03 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:07:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27443
+12/21/2020 02:07:05 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:07:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27525
+12/21/2020 02:07:07 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:07:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27608
+12/21/2020 02:07:08 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:07:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27689
+12/21/2020 02:07:10 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:07:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27771
+12/21/2020 02:07:11 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:07:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27853
+12/21/2020 02:07:13 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:07:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 27935
+12/21/2020 02:07:15 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:07:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 28018
+12/21/2020 02:07:16 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:07:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 28100
+12/21/2020 02:07:18 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:07:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 28182
+12/21/2020 02:07:19 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:07:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 28264
+12/21/2020 02:07:21 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:07:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 25837, Millis: 28347
+12/21/2020 02:07:22 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:07:23 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:07:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28475
+12/21/2020 02:07:25 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:07:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28555
+12/21/2020 02:07:26 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:07:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28636
+12/21/2020 02:07:28 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:07:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28717
+12/21/2020 02:07:29 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:07:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28797
+12/21/2020 02:07:31 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:07:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28879
+12/21/2020 02:07:32 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:07:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 28960
+12/21/2020 02:07:34 PM	Warning	Arduino received data: 550 > 2500? 0
+12/21/2020 02:07:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29041
+12/21/2020 02:07:35 PM	Warning	Arduino received data: 631 > 2500? 0
+12/21/2020 02:07:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29122
+12/21/2020 02:07:37 PM	Warning	Arduino received data: 712 > 2500? 0
+12/21/2020 02:07:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29204
+12/21/2020 02:07:39 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:07:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29285
+12/21/2020 02:07:40 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:07:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29366
+12/21/2020 02:07:42 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:07:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29447
+12/21/2020 02:07:44 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:07:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29529
+12/21/2020 02:07:46 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:07:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29612
+12/21/2020 02:07:47 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:07:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29693
+12/21/2020 02:07:49 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:07:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29775
+12/21/2020 02:07:51 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:07:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29857
+12/21/2020 02:07:52 PM	Warning	Arduino received data: 1447 > 2500? 0
+12/21/2020 02:07:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 29940
+12/21/2020 02:07:54 PM	Warning	Arduino received data: 1530 > 2500? 0
+12/21/2020 02:07:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30022
+12/21/2020 02:07:56 PM	Warning	Arduino received data: 1612 > 2500? 0
+12/21/2020 02:07:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30104
+12/21/2020 02:07:58 PM	Warning	Arduino received data: 1694 > 2500? 0
+12/21/2020 02:07:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30186
+12/21/2020 02:08:00 PM	Warning	Arduino received data: 1776 > 2500? 0
+12/21/2020 02:08:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30269
+12/21/2020 02:08:02 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:08:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30351
+12/21/2020 02:08:04 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:08:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30433
+12/21/2020 02:08:05 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:08:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30515
+12/21/2020 02:08:07 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:08:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30597
+12/21/2020 02:08:08 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:08:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30680
+12/21/2020 02:08:10 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:08:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30761
+12/21/2020 02:08:12 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:08:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30843
+12/21/2020 02:08:14 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:08:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 28417, Millis: 30925
+12/21/2020 02:08:16 PM	Warning	Arduino received data: 2515 > 2500? 1
+12/21/2020 02:08:16 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:08:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31053
+12/21/2020 02:08:18 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:08:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31134
+12/21/2020 02:08:20 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:08:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31215
+12/21/2020 02:08:22 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:08:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31296
+12/21/2020 02:08:24 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:08:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31377
+12/21/2020 02:08:25 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:08:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31458
+12/21/2020 02:08:27 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:08:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31540
+12/21/2020 02:08:28 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:08:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31621
+12/21/2020 02:08:30 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:08:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31702
+12/21/2020 02:08:32 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:08:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31782
+12/21/2020 02:08:34 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:08:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31863
+12/21/2020 02:08:36 PM	Warning	Arduino received data: 877 > 2500? 0
+12/21/2020 02:08:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 31945
+12/21/2020 02:08:37 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:08:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32026
+12/21/2020 02:08:39 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:08:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32108
+12/21/2020 02:08:41 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:08:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32190
+12/21/2020 02:08:43 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:08:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32273
+12/21/2020 02:08:44 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:08:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32355
+12/21/2020 02:08:46 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:08:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32437
+12/21/2020 02:08:47 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:08:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32519
+12/21/2020 02:08:49 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:08:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32602
+12/21/2020 02:08:50 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:08:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32684
+12/21/2020 02:08:52 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:08:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32765
+12/21/2020 02:08:54 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:08:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32847
+12/21/2020 02:08:56 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:08:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 32929
+12/21/2020 02:08:58 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:08:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33012
+12/21/2020 02:08:59 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:09:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33094
+12/21/2020 02:09:01 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:09:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33176
+12/21/2020 02:09:03 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:09:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33258
+12/21/2020 02:09:04 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:09:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33341
+12/21/2020 02:09:06 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:09:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33423
+12/21/2020 02:09:08 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:09:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 30995, Millis: 33505
+12/21/2020 02:09:10 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:09:10 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:09:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 33633
+12/21/2020 02:09:12 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:09:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 33713
+12/21/2020 02:09:13 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:09:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 33794
+12/21/2020 02:09:15 PM	Warning	Arduino received data: 228 > 2500? 0
+12/21/2020 02:09:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 33875
+12/21/2020 02:09:17 PM	Warning	Arduino received data: 309 > 2500? 0
+12/21/2020 02:09:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 33956
+12/21/2020 02:09:19 PM	Warning	Arduino received data: 390 > 2500? 0
+12/21/2020 02:09:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34037
+12/21/2020 02:09:21 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:09:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34118
+12/21/2020 02:09:22 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:09:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34200
+12/21/2020 02:09:24 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:09:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34281
+12/21/2020 02:09:25 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:09:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34362
+12/21/2020 02:09:27 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:09:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34443
+12/21/2020 02:09:29 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:09:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34524
+12/21/2020 02:09:31 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:09:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34606
+12/21/2020 02:09:32 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:09:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34688
+12/21/2020 02:09:34 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:09:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34769
+12/21/2020 02:09:36 PM	Warning	Arduino received data: 1203 > 2500? 0
+12/21/2020 02:09:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34851
+12/21/2020 02:09:38 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:09:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 34934
+12/21/2020 02:09:40 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:09:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35016
+12/21/2020 02:09:42 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:09:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35098
+12/21/2020 02:09:43 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:09:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35180
+12/21/2020 02:09:45 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:09:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35263
+12/21/2020 02:09:46 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:09:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35345
+12/21/2020 02:09:48 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:09:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35427
+12/21/2020 02:09:49 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:09:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35509
+12/21/2020 02:09:51 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:09:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35591
+12/21/2020 02:09:52 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:09:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35674
+12/21/2020 02:09:54 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:09:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35756
+12/21/2020 02:09:55 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:09:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35837
+12/21/2020 02:09:57 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:09:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 35919
+12/21/2020 02:09:58 PM	Warning	Arduino received data: 2354 > 2500? 0
+12/21/2020 02:09:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 36002
+12/21/2020 02:10:00 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:10:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 33574, Millis: 36084
+12/21/2020 02:10:02 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:10:03 PM	Warning	Arduino received data: Volt: 41.64, Threshold: 18.45, Detected: 0
+12/21/2020 02:10:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36212
+12/21/2020 02:10:05 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:10:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36292
+12/21/2020 02:10:07 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:10:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36373
+12/21/2020 02:10:08 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:10:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36454
+12/21/2020 02:10:10 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:10:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36536
+12/21/2020 02:10:11 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:10:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36617
+12/21/2020 02:10:13 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:10:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36698
+12/21/2020 02:10:14 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:10:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36779
+12/21/2020 02:10:16 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:10:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36860
+12/21/2020 02:10:18 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:10:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 36941
+12/21/2020 02:10:20 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:10:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37022
+12/21/2020 02:10:22 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:10:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37103
+12/21/2020 02:10:23 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:10:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37184
+12/21/2020 02:10:25 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:10:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37267
+12/21/2020 02:10:27 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:10:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37349
+12/21/2020 02:10:28 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:10:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37431
+12/21/2020 02:10:30 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:10:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37513
+12/21/2020 02:10:31 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:10:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37596
+12/21/2020 02:10:33 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:10:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37678
+12/21/2020 02:10:34 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:10:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37760
+12/21/2020 02:10:36 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:10:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37841
+12/21/2020 02:10:37 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:10:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 37924
+12/21/2020 02:10:39 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:10:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38006
+12/21/2020 02:10:40 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:10:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38088
+12/21/2020 02:10:42 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:10:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38170
+12/21/2020 02:10:43 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:10:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38252
+12/21/2020 02:10:45 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:10:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38335
+12/21/2020 02:10:46 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:10:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38417
+12/21/2020 02:10:48 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:10:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38499
+12/21/2020 02:10:50 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:10:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38581
+12/21/2020 02:10:52 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:10:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 36154, Millis: 38664
+12/21/2020 02:10:53 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:10:54 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:10:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 38792
+12/21/2020 02:10:55 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:10:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 38872
+12/21/2020 02:10:57 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:10:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 38952
+12/21/2020 02:10:59 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:10:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39033
+12/21/2020 02:11:00 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:11:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39114
+12/21/2020 02:11:02 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:11:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39196
+12/21/2020 02:11:04 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:11:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39277
+12/21/2020 02:11:05 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:11:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39358
+12/21/2020 02:11:07 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:11:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39439
+12/21/2020 02:11:08 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:11:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39521
+12/21/2020 02:11:10 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:11:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39602
+12/21/2020 02:11:11 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:11:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39683
+12/21/2020 02:11:13 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:11:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39763
+12/21/2020 02:11:15 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:11:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39845
+12/21/2020 02:11:17 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:11:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 39928
+12/21/2020 02:11:19 PM	Warning	Arduino received data: 1203 > 2500? 0
+12/21/2020 02:11:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40010
+12/21/2020 02:11:20 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:11:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40092
+12/21/2020 02:11:22 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:11:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40174
+12/21/2020 02:11:24 PM	Warning	Arduino received data: 1448 > 2500? 0
+12/21/2020 02:11:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40257
+12/21/2020 02:11:25 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:11:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40339
+12/21/2020 02:11:27 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:11:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40421
+12/21/2020 02:11:29 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:11:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40503
+12/21/2020 02:11:31 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:11:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40586
+12/21/2020 02:11:33 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:11:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40668
+12/21/2020 02:11:34 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:11:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40750
+12/21/2020 02:11:36 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:11:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40832
+12/21/2020 02:11:37 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:11:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40913
+12/21/2020 02:11:39 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:11:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 40996
+12/21/2020 02:11:40 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:11:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 41078
+12/21/2020 02:11:42 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:11:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 41160
+12/21/2020 02:11:44 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:11:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 38733, Millis: 41242
+12/21/2020 02:11:46 PM	Warning	Arduino received data: 2516 > 2500? 1
+12/21/2020 02:11:47 PM	Warning	Arduino received data: Volt: 41.64, Threshold: 18.45, Detected: 0
+12/21/2020 02:11:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41370
+12/21/2020 02:11:49 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:11:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41451
+12/21/2020 02:11:51 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:11:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41532
+12/21/2020 02:11:53 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:11:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41613
+12/21/2020 02:11:54 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:11:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41694
+12/21/2020 02:11:56 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:11:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41775
+12/21/2020 02:11:57 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:11:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41857
+12/21/2020 02:11:59 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:12:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 41937
+12/21/2020 02:12:01 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:12:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42018
+12/21/2020 02:12:03 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:12:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42099
+12/21/2020 02:12:05 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:12:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42180
+12/21/2020 02:12:06 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:12:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42262
+12/21/2020 02:12:08 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:12:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42343
+12/21/2020 02:12:09 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:12:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42425
+12/21/2020 02:12:11 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:12:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42507
+12/21/2020 02:12:12 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:12:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42590
+12/21/2020 02:12:14 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:12:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42672
+12/21/2020 02:12:16 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:12:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42754
+12/21/2020 02:12:18 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:12:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42835
+12/21/2020 02:12:20 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:12:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 42918
+12/21/2020 02:12:21 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:12:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43000
+12/21/2020 02:12:23 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:12:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43082
+12/21/2020 02:12:24 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:12:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43164
+12/21/2020 02:12:26 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:12:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43246
+12/21/2020 02:12:27 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:12:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43329
+12/21/2020 02:12:29 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:12:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43411
+12/21/2020 02:12:31 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:12:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43493
+12/21/2020 02:12:32 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:12:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43575
+12/21/2020 02:12:34 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:12:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43658
+12/21/2020 02:12:35 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:12:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43740
+12/21/2020 02:12:37 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:12:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 41312, Millis: 43822
+12/21/2020 02:12:38 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:12:39 PM	Warning	Arduino received data: Volt: 41.64, Threshold: 18.45, Detected: 0
+12/21/2020 02:12:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 43950
+12/21/2020 02:12:41 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:12:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44029
+12/21/2020 02:12:43 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:12:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44110
+12/21/2020 02:12:44 PM	Warning	Arduino received data: 228 > 2500? 0
+12/21/2020 02:12:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44192
+12/21/2020 02:12:46 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:12:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44273
+12/21/2020 02:12:48 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:12:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44354
+12/21/2020 02:12:49 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:12:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44435
+12/21/2020 02:12:51 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:12:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44517
+12/21/2020 02:12:53 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:12:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44598
+12/21/2020 02:12:55 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:12:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44679
+12/21/2020 02:12:57 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:12:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44760
+12/21/2020 02:12:58 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:12:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44840
+12/21/2020 02:13:00 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:13:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 44922
+12/21/2020 02:13:02 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:13:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45004
+12/21/2020 02:13:04 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:13:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45086
+12/21/2020 02:13:06 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:13:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45168
+12/21/2020 02:13:07 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:13:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45251
+12/21/2020 02:13:09 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:13:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45333
+12/21/2020 02:13:11 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:13:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45415
+12/21/2020 02:13:13 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:13:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45497
+12/21/2020 02:13:15 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:13:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45580
+12/21/2020 02:13:16 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:13:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45662
+12/21/2020 02:13:18 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:13:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45744
+12/21/2020 02:13:19 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:13:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45826
+12/21/2020 02:13:21 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:13:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45907
+12/21/2020 02:13:23 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:13:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 45990
+12/21/2020 02:13:24 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:13:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 46072
+12/21/2020 02:13:26 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:13:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 46154
+12/21/2020 02:13:27 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:13:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 46236
+12/21/2020 02:13:29 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:13:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 46319
+12/21/2020 02:13:30 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:13:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 43891, Millis: 46401
+12/21/2020 02:13:32 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:13:33 PM	Warning	Arduino received data: Volt: 41.64, Threshold: 18.45, Detected: 0
+12/21/2020 02:13:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46529
+12/21/2020 02:13:34 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:13:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46609
+12/21/2020 02:13:36 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:13:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46690
+12/21/2020 02:13:38 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:13:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46771
+12/21/2020 02:13:40 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:13:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46853
+12/21/2020 02:13:42 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:13:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 46934
+12/21/2020 02:13:43 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:13:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47014
+12/21/2020 02:13:45 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:13:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47095
+12/21/2020 02:13:47 PM	Warning	Arduino received data: 631 > 2500? 0
+12/21/2020 02:13:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47177
+12/21/2020 02:13:48 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:13:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47258
+12/21/2020 02:13:50 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:13:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47339
+12/21/2020 02:13:52 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:13:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47420
+12/21/2020 02:13:53 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:13:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47501
+12/21/2020 02:13:55 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:13:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47584
+12/21/2020 02:13:57 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:13:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47666
+12/21/2020 02:13:58 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:13:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47748
+12/21/2020 02:14:00 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:14:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47830
+12/21/2020 02:14:01 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:14:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47912
+12/21/2020 02:14:03 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:14:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 47994
+12/21/2020 02:14:05 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:14:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48076
+12/21/2020 02:14:06 PM	Warning	Arduino received data: 1612 > 2500? 0
+12/21/2020 02:14:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48158
+12/21/2020 02:14:08 PM	Warning	Arduino received data: 1694 > 2500? 0
+12/21/2020 02:14:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48241
+12/21/2020 02:14:09 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:14:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48323
+12/21/2020 02:14:11 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:14:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48405
+12/21/2020 02:14:12 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:14:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48487
+12/21/2020 02:14:14 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:14:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48569
+12/21/2020 02:14:15 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:14:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48652
+12/21/2020 02:14:17 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:14:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48734
+12/21/2020 02:14:19 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:14:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48816
+12/21/2020 02:14:21 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:14:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48898
+12/21/2020 02:14:22 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:14:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 46471, Millis: 48980
+12/21/2020 02:14:24 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:14:25 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:14:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49108
+12/21/2020 02:14:27 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:14:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49188
+12/21/2020 02:14:28 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:14:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49269
+12/21/2020 02:14:30 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:14:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49350
+12/21/2020 02:14:31 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:14:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49431
+12/21/2020 02:14:33 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:14:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49513
+12/21/2020 02:14:34 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:14:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49594
+12/21/2020 02:14:36 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:14:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49675
+12/21/2020 02:14:37 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:14:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49756
+12/21/2020 02:14:39 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:14:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49838
+12/21/2020 02:14:41 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:14:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49918
+12/21/2020 02:14:42 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:14:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 49999
+12/21/2020 02:14:44 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:14:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50080
+12/21/2020 02:14:46 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:14:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50162
+12/21/2020 02:14:48 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:14:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50245
+12/21/2020 02:14:49 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:14:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50327
+12/21/2020 02:14:51 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:14:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50409
+12/21/2020 02:14:52 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:14:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50491
+12/21/2020 02:14:54 PM	Warning	Arduino received data: 1448 > 2500? 0
+12/21/2020 02:14:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50574
+12/21/2020 02:14:55 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:14:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50656
+12/21/2020 02:14:57 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:14:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50738
+12/21/2020 02:14:59 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:15:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50820
+12/21/2020 02:15:00 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:15:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50903
+12/21/2020 02:15:02 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:15:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 50984
+12/21/2020 02:15:03 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:15:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51066
+12/21/2020 02:15:05 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:15:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51148
+12/21/2020 02:15:07 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:15:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51230
+12/21/2020 02:15:09 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:15:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51313
+12/21/2020 02:15:10 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:15:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51395
+12/21/2020 02:15:12 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:15:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51477
+12/21/2020 02:15:14 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:15:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 49050, Millis: 51559
+12/21/2020 02:15:15 PM	Warning	Arduino received data: 2516 > 2500? 1
+12/21/2020 02:15:16 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:15:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 51687
+12/21/2020 02:15:18 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:15:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 51768
+12/21/2020 02:15:19 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:15:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 51849
+12/21/2020 02:15:21 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:15:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 51930
+12/21/2020 02:15:22 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:15:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52011
+12/21/2020 02:15:24 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:15:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52091
+12/21/2020 02:15:26 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:15:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52173
+12/21/2020 02:15:27 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:15:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52254
+12/21/2020 02:15:29 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:15:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52335
+12/21/2020 02:15:30 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:15:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52416
+12/21/2020 02:15:32 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:15:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52497
+12/21/2020 02:15:34 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:15:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52579
+12/21/2020 02:15:36 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:15:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52660
+12/21/2020 02:15:38 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:15:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52742
+12/21/2020 02:15:39 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:15:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52824
+12/21/2020 02:15:41 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:15:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52907
+12/21/2020 02:15:43 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:15:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 52988
+12/21/2020 02:15:45 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:15:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53070
+12/21/2020 02:15:46 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:15:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53152
+12/21/2020 02:15:48 PM	Warning	Arduino received data: 1530 > 2500? 0
+12/21/2020 02:15:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53235
+12/21/2020 02:15:49 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:15:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53317
+12/21/2020 02:15:51 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:15:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53399
+12/21/2020 02:15:53 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:15:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53481
+12/21/2020 02:15:54 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:15:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53563
+12/21/2020 02:15:56 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:15:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53646
+12/21/2020 02:15:57 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:15:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53728
+12/21/2020 02:15:59 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:16:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53810
+12/21/2020 02:16:01 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:16:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53892
+12/21/2020 02:16:03 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:16:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 53975
+12/21/2020 02:16:05 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:16:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 54056
+12/21/2020 02:16:07 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:16:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 51629, Millis: 54138
+12/21/2020 02:16:08 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:16:09 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:16:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54266
+12/21/2020 02:16:10 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:16:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54346
+12/21/2020 02:16:12 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:16:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54427
+12/21/2020 02:16:14 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:16:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54509
+12/21/2020 02:16:16 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:16:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54590
+12/21/2020 02:16:18 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:16:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54671
+12/21/2020 02:16:20 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:16:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54752
+12/21/2020 02:16:22 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:16:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54834
+12/21/2020 02:16:23 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:16:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54915
+12/21/2020 02:16:25 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:16:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 54995
+12/21/2020 02:16:27 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:16:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55076
+12/21/2020 02:16:29 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:16:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55157
+12/21/2020 02:16:31 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:16:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55239
+12/21/2020 02:16:33 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:16:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55321
+12/21/2020 02:16:34 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:16:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55403
+12/21/2020 02:16:36 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:16:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55485
+12/21/2020 02:16:37 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:16:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55568
+12/21/2020 02:16:39 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:16:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55650
+12/21/2020 02:16:41 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:16:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55732
+12/21/2020 02:16:43 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:16:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55814
+12/21/2020 02:16:45 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:16:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55897
+12/21/2020 02:16:47 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:16:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 55979
+12/21/2020 02:16:49 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:16:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56060
+12/21/2020 02:16:51 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:16:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56142
+12/21/2020 02:16:52 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:16:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56224
+12/21/2020 02:16:54 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:16:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56307
+12/21/2020 02:16:55 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:16:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56389
+12/21/2020 02:16:57 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:16:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56471
+12/21/2020 02:16:58 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:16:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56553
+12/21/2020 02:17:00 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:17:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56636
+12/21/2020 02:17:01 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:17:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 54208, Millis: 56718
+12/21/2020 02:17:03 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:17:04 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:17:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 56846
+12/21/2020 02:17:05 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:17:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 56926
+12/21/2020 02:17:07 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:17:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57007
+12/21/2020 02:17:08 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:17:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57088
+12/21/2020 02:17:10 PM	Warning	Arduino received data: 309 > 2500? 0
+12/21/2020 02:17:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57169
+12/21/2020 02:17:11 PM	Warning	Arduino received data: 390 > 2500? 0
+12/21/2020 02:17:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57250
+12/21/2020 02:17:13 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:17:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57331
+12/21/2020 02:17:15 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:17:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57412
+12/21/2020 02:17:16 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:17:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57494
+12/21/2020 02:17:18 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:17:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57575
+12/21/2020 02:17:20 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:17:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57656
+12/21/2020 02:17:22 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:17:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57737
+12/21/2020 02:17:23 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:17:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57818
+12/21/2020 02:17:25 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:17:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57901
+12/21/2020 02:17:26 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:17:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 57982
+12/21/2020 02:17:28 PM	Warning	Arduino received data: 1203 > 2500? 0
+12/21/2020 02:17:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58064
+12/21/2020 02:17:30 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:17:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58146
+12/21/2020 02:17:31 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:17:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58229
+12/21/2020 02:17:33 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:17:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58311
+12/21/2020 02:17:35 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:17:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58393
+12/21/2020 02:17:37 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:17:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58475
+12/21/2020 02:17:38 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:17:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58558
+12/21/2020 02:17:40 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:17:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58640
+12/21/2020 02:17:42 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:17:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58722
+12/21/2020 02:17:43 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:17:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58804
+12/21/2020 02:17:45 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:17:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58886
+12/21/2020 02:17:46 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:17:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 58969
+12/21/2020 02:17:48 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:17:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 59051
+12/21/2020 02:17:50 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:17:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 59132
+12/21/2020 02:17:52 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:17:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 59214
+12/21/2020 02:17:54 PM	Warning	Arduino received data: 2436 > 2500? 0
+12/21/2020 02:17:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 56787, Millis: 59297
+12/21/2020 02:17:55 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:17:56 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:17:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59425
+12/21/2020 02:17:58 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:17:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59505
+12/21/2020 02:17:59 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:18:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59586
+12/21/2020 02:18:01 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:18:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59667
+12/21/2020 02:18:02 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:18:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59748
+12/21/2020 02:18:04 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:18:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59830
+12/21/2020 02:18:06 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:18:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59911
+12/21/2020 02:18:08 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:18:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 59992
+12/21/2020 02:18:10 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:18:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60072
+12/21/2020 02:18:12 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:18:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60154
+12/21/2020 02:18:13 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:18:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60235
+12/21/2020 02:18:15 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:18:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60316
+12/21/2020 02:18:17 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:18:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60397
+12/21/2020 02:18:18 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:18:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60479
+12/21/2020 02:18:20 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:18:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60562
+12/21/2020 02:18:22 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:18:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60644
+12/21/2020 02:18:23 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:18:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60726
+12/21/2020 02:18:25 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:18:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60808
+12/21/2020 02:18:27 PM	Warning	Arduino received data: 1448 > 2500? 0
+12/21/2020 02:18:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60891
+12/21/2020 02:18:29 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:18:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 60973
+12/21/2020 02:18:30 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:18:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61054
+12/21/2020 02:18:32 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:18:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61136
+12/21/2020 02:18:34 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:18:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61219
+12/21/2020 02:18:36 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:18:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61301
+12/21/2020 02:18:38 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:18:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61383
+12/21/2020 02:18:40 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:18:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61465
+12/21/2020 02:18:41 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:18:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61547
+12/21/2020 02:18:43 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:18:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61630
+12/21/2020 02:18:45 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:18:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61712
+12/21/2020 02:18:47 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:18:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61794
+12/21/2020 02:18:49 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:18:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 59367, Millis: 61876
+12/21/2020 02:18:50 PM	Warning	Arduino received data: 2516 > 2500? 1
+12/21/2020 02:18:51 PM	Warning	Arduino received data: Volt: 41.74, Threshold: 18.45, Detected: 0
+12/21/2020 02:18:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62004
+12/21/2020 02:18:53 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:18:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62085
+12/21/2020 02:18:55 PM	Warning	Arduino received data: 147 > 2500? 0
+12/21/2020 02:18:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62166
+12/21/2020 02:18:56 PM	Warning	Arduino received data: 228 > 2500? 0
+12/21/2020 02:18:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62246
+12/21/2020 02:18:58 PM	Warning	Arduino received data: 309 > 2500? 0
+12/21/2020 02:18:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62327
+12/21/2020 02:19:00 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:19:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62408
+12/21/2020 02:19:02 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:19:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62490
+12/21/2020 02:19:03 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:19:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62571
+12/21/2020 02:19:05 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:19:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62652
+12/21/2020 02:19:07 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:19:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62733
+12/21/2020 02:19:09 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:19:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62814
+12/21/2020 02:19:11 PM	Warning	Arduino received data: 877 > 2500? 0
+12/21/2020 02:19:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62896
+12/21/2020 02:19:12 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:19:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 62977
+12/21/2020 02:19:14 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:19:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63058
+12/21/2020 02:19:15 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:19:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63140
+12/21/2020 02:19:17 PM	Warning	Arduino received data: 1203 > 2500? 0
+12/21/2020 02:19:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63223
+12/21/2020 02:19:19 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:19:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63305
+12/21/2020 02:19:20 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:19:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63387
+12/21/2020 02:19:22 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:19:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63469
+12/21/2020 02:19:24 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:19:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63552
+12/21/2020 02:19:26 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:19:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63634
+12/21/2020 02:19:27 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:19:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63716
+12/21/2020 02:19:29 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:19:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63798
+12/21/2020 02:19:30 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:19:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63880
+12/21/2020 02:19:32 PM	Warning	Arduino received data: 1943 > 2500? 0
+12/21/2020 02:19:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 63963
+12/21/2020 02:19:34 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:19:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64045
+12/21/2020 02:19:36 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:19:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64126
+12/21/2020 02:19:38 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:19:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64208
+12/21/2020 02:19:39 PM	Warning	Arduino received data: 2272 > 2500? 0
+12/21/2020 02:19:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64291
+12/21/2020 02:19:41 PM	Warning	Arduino received data: 2354 > 2500? 0
+12/21/2020 02:19:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64373
+12/21/2020 02:19:42 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:19:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 61945, Millis: 64455
+12/21/2020 02:19:44 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:19:44 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:19:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64583
+12/21/2020 02:19:46 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:19:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64663
+12/21/2020 02:19:47 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:19:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64744
+12/21/2020 02:19:49 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:19:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64826
+12/21/2020 02:19:51 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:19:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64907
+12/21/2020 02:19:53 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:19:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 64988
+12/21/2020 02:19:54 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:19:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65069
+12/21/2020 02:19:56 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:19:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65150
+12/21/2020 02:19:57 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:19:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65231
+12/21/2020 02:19:59 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:20:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65312
+12/21/2020 02:20:01 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:20:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65393
+12/21/2020 02:20:02 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:20:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65474
+12/21/2020 02:20:04 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:20:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65556
+12/21/2020 02:20:06 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:20:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65638
+12/21/2020 02:20:08 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:20:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65720
+12/21/2020 02:20:09 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:20:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65802
+12/21/2020 02:20:11 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:20:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65885
+12/21/2020 02:20:13 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:20:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 65967
+12/21/2020 02:20:15 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:20:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66049
+12/21/2020 02:20:17 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:20:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66130
+12/21/2020 02:20:19 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:20:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66213
+12/21/2020 02:20:21 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:20:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66295
+12/21/2020 02:20:23 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:20:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66377
+12/21/2020 02:20:25 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:20:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66459
+12/21/2020 02:20:26 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:20:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66541
+12/21/2020 02:20:28 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:20:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66624
+12/21/2020 02:20:30 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:20:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66706
+12/21/2020 02:20:32 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:20:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66788
+12/21/2020 02:20:34 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:20:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66870
+12/21/2020 02:20:35 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:20:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 66953
+12/21/2020 02:20:37 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:20:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 64525, Millis: 67035
+12/21/2020 02:20:39 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:20:40 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:20:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67163
+12/21/2020 02:20:42 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:20:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67243
+12/21/2020 02:20:44 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:20:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67323
+12/21/2020 02:20:46 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:20:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67404
+12/21/2020 02:20:48 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:20:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67486
+12/21/2020 02:20:49 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:20:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67567
+12/21/2020 02:20:51 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:20:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67648
+12/21/2020 02:20:53 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:20:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67729
+12/21/2020 02:20:55 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:20:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67811
+12/21/2020 02:20:56 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:20:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67892
+12/21/2020 02:20:58 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:20:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 67973
+12/21/2020 02:21:00 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:21:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68054
+12/21/2020 02:21:01 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:21:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68134
+12/21/2020 02:21:03 PM	Warning	Arduino received data: 1039 > 2500? 0
+12/21/2020 02:21:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68217
+12/21/2020 02:21:04 PM	Warning	Arduino received data: 1121 > 2500? 0
+12/21/2020 02:21:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68299
+12/21/2020 02:21:06 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:21:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68381
+12/21/2020 02:21:08 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:21:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68463
+12/21/2020 02:21:09 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:21:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68546
+12/21/2020 02:21:11 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:21:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68628
+12/21/2020 02:21:13 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:21:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68710
+12/21/2020 02:21:15 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:21:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68792
+12/21/2020 02:21:17 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:21:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68875
+12/21/2020 02:21:18 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:21:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 68957
+12/21/2020 02:21:20 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:21:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69039
+12/21/2020 02:21:22 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:21:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69121
+12/21/2020 02:21:23 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:21:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69202
+12/21/2020 02:21:25 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:21:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69285
+12/21/2020 02:21:26 PM	Warning	Arduino received data: 2189 > 2500? 0
+12/21/2020 02:21:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69367
+12/21/2020 02:21:28 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:21:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69449
+12/21/2020 02:21:30 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:21:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69531
+12/21/2020 02:21:32 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:21:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 67104, Millis: 69614
+12/21/2020 02:21:33 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:21:34 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:21:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 69742
+12/21/2020 02:21:36 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:21:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 69822
+12/21/2020 02:21:38 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:21:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 69903
+12/21/2020 02:21:40 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:21:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 69984
+12/21/2020 02:21:41 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:21:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70065
+12/21/2020 02:21:43 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:21:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70147
+12/21/2020 02:21:45 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:21:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70227
+12/21/2020 02:21:47 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:21:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70308
+12/21/2020 02:21:48 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:21:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70389
+12/21/2020 02:21:50 PM	Warning	Arduino received data: 712 > 2500? 0
+12/21/2020 02:21:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70471
+12/21/2020 02:21:52 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:21:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70552
+12/21/2020 02:21:54 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:21:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70633
+12/21/2020 02:21:56 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:21:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70714
+12/21/2020 02:21:57 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:21:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70796
+12/21/2020 02:21:59 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:22:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70879
+12/21/2020 02:22:01 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:22:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 70961
+12/21/2020 02:22:03 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:22:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71043
+12/21/2020 02:22:04 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:22:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71124
+12/21/2020 02:22:06 PM	Warning	Arduino received data: 1448 > 2500? 0
+12/21/2020 02:22:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71207
+12/21/2020 02:22:07 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:22:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71289
+12/21/2020 02:22:09 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:22:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71371
+12/21/2020 02:22:10 PM	Warning	Arduino received data: 1694 > 2500? 0
+12/21/2020 02:22:11 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71453
+12/21/2020 02:22:12 PM	Warning	Arduino received data: 1776 > 2500? 0
+12/21/2020 02:22:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71536
+12/21/2020 02:22:13 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:22:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71618
+12/21/2020 02:22:15 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:22:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71700
+12/21/2020 02:22:16 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:22:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71782
+12/21/2020 02:22:18 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:22:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71864
+12/21/2020 02:22:20 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:22:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 71947
+12/21/2020 02:22:22 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:22:23 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 72029
+12/21/2020 02:22:24 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:22:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 72111
+12/21/2020 02:22:25 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:22:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 69684, Millis: 72193
+12/21/2020 02:22:27 PM	Warning	Arduino received data: 2516 > 2500? 1
+12/21/2020 02:22:28 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:22:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72321
+12/21/2020 02:22:30 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:22:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72401
+12/21/2020 02:22:32 PM	Warning	Arduino received data: 147 > 2500? 0
+12/21/2020 02:22:33 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72482
+12/21/2020 02:22:34 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:22:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72563
+12/21/2020 02:22:36 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:22:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72644
+12/21/2020 02:22:37 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:22:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72725
+12/21/2020 02:22:39 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:22:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72807
+12/21/2020 02:22:41 PM	Warning	Arduino received data: 552 > 2500? 0
+12/21/2020 02:22:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72888
+12/21/2020 02:22:43 PM	Warning	Arduino received data: 633 > 2500? 0
+12/21/2020 02:22:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 72969
+12/21/2020 02:22:45 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:22:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73050
+12/21/2020 02:22:47 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:22:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73131
+12/21/2020 02:22:49 PM	Warning	Arduino received data: 877 > 2500? 0
+12/21/2020 02:22:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73212
+12/21/2020 02:22:51 PM	Warning	Arduino received data: 958 > 2500? 0
+12/21/2020 02:22:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73293
+12/21/2020 02:22:52 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:22:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73375
+12/21/2020 02:22:54 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:22:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73457
+12/21/2020 02:22:56 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:22:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73540
+12/21/2020 02:22:58 PM	Warning	Arduino received data: 1285 > 2500? 0
+12/21/2020 02:22:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73622
+12/21/2020 02:23:00 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:23:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73704
+12/21/2020 02:23:02 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:23:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73786
+12/21/2020 02:23:04 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:23:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73869
+12/21/2020 02:23:06 PM	Warning	Arduino received data: 1614 > 2500? 0
+12/21/2020 02:23:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 73951
+12/21/2020 02:23:08 PM	Warning	Arduino received data: 1696 > 2500? 0
+12/21/2020 02:23:09 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74033
+12/21/2020 02:23:10 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:23:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74115
+12/21/2020 02:23:11 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:23:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74196
+12/21/2020 02:23:13 PM	Warning	Arduino received data: 1943 > 2500? 0
+12/21/2020 02:23:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74279
+12/21/2020 02:23:15 PM	Warning	Arduino received data: 2025 > 2500? 0
+12/21/2020 02:23:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74361
+12/21/2020 02:23:16 PM	Warning	Arduino received data: 2107 > 2500? 0
+12/21/2020 02:23:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74443
+12/21/2020 02:23:18 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:23:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74525
+12/21/2020 02:23:19 PM	Warning	Arduino received data: 2271 > 2500? 0
+12/21/2020 02:23:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74608
+12/21/2020 02:23:21 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:23:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74690
+12/21/2020 02:23:23 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:23:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 72262, Millis: 74772
+12/21/2020 02:23:25 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:23:26 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:23:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 74900
+12/21/2020 02:23:28 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:23:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 74980
+12/21/2020 02:23:30 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:23:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75061
+12/21/2020 02:23:31 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:23:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75143
+12/21/2020 02:23:33 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:23:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75224
+12/21/2020 02:23:35 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:23:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75304
+12/21/2020 02:23:37 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:23:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75385
+12/21/2020 02:23:39 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:23:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75467
+12/21/2020 02:23:41 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:23:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75548
+12/21/2020 02:23:43 PM	Warning	Arduino received data: 713 > 2500? 0
+12/21/2020 02:23:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75629
+12/21/2020 02:23:45 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:23:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75710
+12/21/2020 02:23:46 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:23:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75791
+12/21/2020 02:23:48 PM	Warning	Arduino received data: 957 > 2500? 0
+12/21/2020 02:23:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75873
+12/21/2020 02:23:50 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:23:51 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 75955
+12/21/2020 02:23:52 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:23:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76037
+12/21/2020 02:23:54 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:23:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76119
+12/21/2020 02:23:56 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:23:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76201
+12/21/2020 02:23:58 PM	Warning	Arduino received data: 1367 > 2500? 0
+12/21/2020 02:23:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76283
+12/21/2020 02:24:00 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:24:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76365
+12/21/2020 02:24:02 PM	Warning	Arduino received data: 1530 > 2500? 0
+12/21/2020 02:24:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76447
+12/21/2020 02:24:04 PM	Warning	Arduino received data: 1612 > 2500? 0
+12/21/2020 02:24:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76530
+12/21/2020 02:24:05 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:24:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76612
+12/21/2020 02:24:07 PM	Warning	Arduino received data: 1777 > 2500? 0
+12/21/2020 02:24:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76694
+12/21/2020 02:24:09 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:24:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76776
+12/21/2020 02:24:11 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:24:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76858
+12/21/2020 02:24:13 PM	Warning	Arduino received data: 2024 > 2500? 0
+12/21/2020 02:24:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 76941
+12/21/2020 02:24:14 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:24:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 77023
+12/21/2020 02:24:16 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:24:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 77105
+12/21/2020 02:24:17 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:24:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 77187
+12/21/2020 02:24:19 PM	Warning	Arduino received data: 2353 > 2500? 0
+12/21/2020 02:24:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 77270
+12/21/2020 02:24:21 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:24:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 74842, Millis: 77351
+12/21/2020 02:24:23 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:24:24 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:24:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77479
+12/21/2020 02:24:26 PM	Warning	Arduino received data: 66 > 2500? 0
+12/21/2020 02:24:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77559
+12/21/2020 02:24:28 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:24:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77640
+12/21/2020 02:24:30 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:24:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77721
+12/21/2020 02:24:33 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:24:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77803
+12/21/2020 02:24:35 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:24:36 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77884
+12/21/2020 02:24:37 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:24:38 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 77965
+12/21/2020 02:24:39 PM	Warning	Arduino received data: 551 > 2500? 0
+12/21/2020 02:24:40 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78046
+12/21/2020 02:24:41 PM	Warning	Arduino received data: 632 > 2500? 0
+12/21/2020 02:24:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78128
+12/21/2020 02:24:43 PM	Warning	Arduino received data: 714 > 2500? 0
+12/21/2020 02:24:43 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78209
+12/21/2020 02:24:44 PM	Warning	Arduino received data: 795 > 2500? 0
+12/21/2020 02:24:45 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78289
+12/21/2020 02:24:46 PM	Warning	Arduino received data: 876 > 2500? 0
+12/21/2020 02:24:47 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78370
+12/21/2020 02:24:48 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:24:49 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78451
+12/21/2020 02:24:49 PM	Warning	Arduino received data: 1038 > 2500? 0
+12/21/2020 02:24:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78534
+12/21/2020 02:24:51 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:24:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78616
+12/21/2020 02:24:52 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:24:53 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78698
+12/21/2020 02:24:54 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:24:55 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78780
+12/21/2020 02:24:56 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:24:57 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78863
+12/21/2020 02:24:58 PM	Warning	Arduino received data: 1449 > 2500? 0
+12/21/2020 02:24:59 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 78945
+12/21/2020 02:25:00 PM	Warning	Arduino received data: 1531 > 2500? 0
+12/21/2020 02:25:01 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79027
+12/21/2020 02:25:02 PM	Warning	Arduino received data: 1613 > 2500? 0
+12/21/2020 02:25:03 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79109
+12/21/2020 02:25:04 PM	Warning	Arduino received data: 1695 > 2500? 0
+12/21/2020 02:25:05 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79192
+12/21/2020 02:25:06 PM	Warning	Arduino received data: 1778 > 2500? 0
+12/21/2020 02:25:07 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79273
+12/21/2020 02:25:07 PM	Warning	Arduino received data: 1860 > 2500? 0
+12/21/2020 02:25:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79355
+12/21/2020 02:25:09 PM	Warning	Arduino received data: 1942 > 2500? 0
+12/21/2020 02:25:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79437
+12/21/2020 02:25:11 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:25:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79519
+12/21/2020 02:25:13 PM	Warning	Arduino received data: 2106 > 2500? 0
+12/21/2020 02:25:14 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79602
+12/21/2020 02:25:15 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:25:16 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79684
+12/21/2020 02:25:17 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:25:18 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79766
+12/21/2020 02:25:19 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:25:20 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79848
+12/21/2020 02:25:21 PM	Warning	Arduino received data: 2435 > 2500? 0
+12/21/2020 02:25:22 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 77421, Millis: 79931
+12/21/2020 02:25:23 PM	Warning	Arduino received data: 2517 > 2500? 1
+12/21/2020 02:25:24 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:25:25 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80059
+12/21/2020 02:25:26 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:25:26 PM	Success	Running command successfully: Arduino TurnOff
+12/21/2020 02:25:26 PM	Warning	AWS 14af5d0f0a104fe280d39f15a935fb14:0Xugp4TJkBmz2TdCi1cMY4iz/PA=
+12/21/2020 02:25:26 PM	Error	Status Code : Unauthorized
+12/21/2020 02:25:26 PM	Error	Status Description : Unauthorized
+12/21/2020 02:25:26 PM	Error	Response: {  "status" : 401,  "code" : 40103,  "resource" : null,  "properties" : [ ],  "message" : "The supplied session ID does not exist. It may have expired.",  "developerMessage" : "The supplied session ID does not exist. It may have expired."}
+12/21/2020 02:25:26 PM	Success	Running RFIDEncoder demo code
+12/21/2020 02:25:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80139
+12/21/2020 02:25:27 PM	Warning	Arduino received data: 145 > 2500? 0
+12/21/2020 02:25:28 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80220
+12/21/2020 02:25:29 PM	Warning	Arduino received data: 226 > 2500? 0
+12/21/2020 02:25:30 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80301
+12/21/2020 02:25:31 PM	Warning	Arduino received data: 307 > 2500? 0
+12/21/2020 02:25:32 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80381
+12/21/2020 02:25:33 PM	Warning	Arduino received data: 389 > 2500? 0
+12/21/2020 02:25:34 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80463
+12/21/2020 02:25:35 PM	Warning	Arduino received data: 470 > 2500? 0
+12/21/2020 02:25:35 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80544
+12/21/2020 02:25:36 PM	Warning	Arduino received data: 550 > 2500? 0
+12/21/2020 02:25:37 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80625
+12/21/2020 02:25:38 PM	Warning	Arduino received data: 631 > 2500? 0
+12/21/2020 02:25:39 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80706
+12/21/2020 02:25:40 PM	Warning	Arduino received data: 712 > 2500? 0
+12/21/2020 02:25:41 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80788
+12/21/2020 02:25:41 PM	Warning	Arduino received data: 794 > 2500? 0
+12/21/2020 02:25:42 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80869
+12/21/2020 02:25:43 PM	Warning	Arduino received data: 875 > 2500? 0
+12/21/2020 02:25:44 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 80950
+12/21/2020 02:25:45 PM	Warning	Arduino received data: 956 > 2500? 0
+12/21/2020 02:25:46 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81031
+12/21/2020 02:25:47 PM	Warning	Arduino received data: 1037 > 2500? 0
+12/21/2020 02:25:48 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81113
+12/21/2020 02:25:49 PM	Warning	Arduino received data: 1120 > 2500? 0
+12/21/2020 02:25:50 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81196
+12/21/2020 02:25:51 PM	Warning	Arduino received data: 1202 > 2500? 0
+12/21/2020 02:25:52 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81277
+12/21/2020 02:25:53 PM	Warning	Arduino received data: 1284 > 2500? 0
+12/21/2020 02:25:54 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81359
+12/21/2020 02:25:55 PM	Warning	Arduino received data: 1366 > 2500? 0
+12/21/2020 02:25:56 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81441
+12/21/2020 02:25:57 PM	Warning	Arduino received data: 1447 > 2500? 0
+12/21/2020 02:25:58 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81524
+12/21/2020 02:25:59 PM	Warning	Arduino received data: 1530 > 2500? 0
+12/21/2020 02:26:00 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81606
+12/21/2020 02:26:01 PM	Warning	Arduino received data: 1612 > 2500? 0
+12/21/2020 02:26:02 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81688
+12/21/2020 02:26:03 PM	Warning	Arduino received data: 1694 > 2500? 0
+12/21/2020 02:26:04 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81770
+12/21/2020 02:26:05 PM	Warning	Arduino received data: 1776 > 2500? 0
+12/21/2020 02:26:06 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81853
+12/21/2020 02:26:07 PM	Warning	Arduino received data: 1859 > 2500? 0
+12/21/2020 02:26:08 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 81935
+12/21/2020 02:26:09 PM	Warning	Arduino received data: 1941 > 2500? 0
+12/21/2020 02:26:10 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82017
+12/21/2020 02:26:11 PM	Warning	Arduino received data: 2023 > 2500? 0
+12/21/2020 02:26:12 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82099
+12/21/2020 02:26:12 PM	Warning	Arduino received data: 2105 > 2500? 0
+12/21/2020 02:26:13 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82181
+12/21/2020 02:26:14 PM	Warning	Arduino received data: 2188 > 2500? 0
+12/21/2020 02:26:15 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82264
+12/21/2020 02:26:16 PM	Warning	Arduino received data: 2270 > 2500? 0
+12/21/2020 02:26:17 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82345
+12/21/2020 02:26:18 PM	Warning	Arduino received data: 2352 > 2500? 0
+12/21/2020 02:26:19 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82427
+12/21/2020 02:26:20 PM	Warning	Arduino received data: 2434 > 2500? 0
+12/21/2020 02:26:21 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 80001, Millis: 82509
+12/21/2020 02:26:22 PM	Warning	Arduino received data: 2515 > 2500? 1
+12/21/2020 02:26:23 PM	Warning	Arduino received data: Volt: 41.69, Threshold: 18.45, Detected: 0
+12/21/2020 02:26:24 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 82579, Millis: 82637
+12/21/2020 02:26:25 PM	Warning	Arduino received data: 65 > 2500? 0
+12/21/2020 02:26:26 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 82579, Millis: 82718
+12/21/2020 02:26:26 PM	Warning	Arduino received data: 146 > 2500? 0
+12/21/2020 02:26:27 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 82579, Millis: 82799
+12/21/2020 02:26:28 PM	Warning	Arduino received data: 227 > 2500? 0
+12/21/2020 02:26:29 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 82579, Millis: 82880
+12/21/2020 02:26:30 PM	Warning	Arduino received data: 308 > 2500? 0
+12/21/2020 02:26:31 PM	Warning	Arduino received data: Debounce time: 2500, Last debounce time: 82579, Millis: 82961
+12/21/2020 04:56:33 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 04:56:33 PM	Warning	Initializing port for Arduino...
+12/21/2020 04:56:33 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 05:14:53 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 05:14:53 PM	Warning	Initializing port for Arduino...
+12/21/2020 05:14:53 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 05:15:15 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 05:15:15 PM	Warning	Initializing port for Arduino...
+12/21/2020 05:15:15 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 06:03:29 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 06:03:29 PM	Warning	Initializing port for Arduino...
+12/21/2020 06:03:29 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 06:06:50 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 06:06:50 PM	Warning	Initializing port for Arduino...
+12/21/2020 06:06:50 PM	Error	Access to the port 'COM3' is denied.
+12/21/2020 06:11:47 PM	Warning	Unable to connect dispenser port. Port: COM11
+12/21/2020 06:11:47 PM	Warning	Initializing port for Arduino...
+12/21/2020 06:11:47 PM	Error	Access to the port 'COM3' is denied.

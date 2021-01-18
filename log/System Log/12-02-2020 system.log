@@ -1,0 +1,546 @@
+Date:	Status:	Description:
+12/02/2020 06:01:47 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/02/2020 06:01:47 PM	Warning	Status Flag status: True
+12/02/2020 06:01:48 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:01:48 PM	Warning	AutoEject Flag status: True
+12/02/2020 06:01:49 PM	Success	Success execute dispenser code. Code: AutoEject
+12/02/2020 06:01:49 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:01:49 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/02/2020 06:01:49 PM	Warning	Session request
+12/02/2020 06:01:49 PM	Success	Response: {"accessKey":"7d962652314346ee9bb45e392d17a285","id":"92cba4be3be645e0af18f4a27588a126"}
+12/02/2020 06:01:49 PM	Warning	Enable Flag status: True
+12/02/2020 06:01:50 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:01:50 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/02/2020 06:01:53 PM	Warning	Arduino received data: not detected
+12/02/2020 06:01:53 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:02:05 PM	Warning	AWS 92cba4be3be645e0af18f4a27588a126:roe6t0DKBRSZNWYtQGjDRkVrmlk=
+12/02/2020 06:02:14 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:02:14 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:02:14 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:02:14 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:02:14 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:02:14 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:02:14 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:02:14 PM	Warning	Capture Flag status: True
+12/02/2020 06:02:15 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:02:15 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:02:15 PM	Warning	Status Flag status: True
+12/02/2020 06:02:15 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:02:15 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:02:16 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:02:16 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:02:16 PM	Warning	Forbid Flag status: True
+12/02/2020 06:02:16 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:02:16 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:02:17 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:02:18 PM	Warning	Enable Flag status: True
+12/02/2020 06:02:18 PM	Warning	Arduino received data: detected
+12/02/2020 06:02:19 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:02:20 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:02:20 PM	Warning	Arduino received data: not detected
+12/02/2020 06:02:21 PM	Warning	AWS 92cba4be3be645e0af18f4a27588a126:jPznZZb4G3LutCj0RjhTyoWHnB8=
+12/02/2020 06:02:23 PM	Warning	AWS 92cba4be3be645e0af18f4a27588a126:u+E7xB62UQn7s0Dy44T1tXDywQY=
+12/02/2020 06:02:23 PM	Error	Status Code : MethodNotAllowed
+12/02/2020 06:02:23 PM	Error	Status Description : Method Not Allowed
+12/02/2020 06:02:23 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12/02/2020 06:02:23 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:02:23 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:02:23 PM	Error	Status Code : InternalServerError
+12/02/2020 06:02:23 PM	Error	Status Description : Internal Server Error
+12/02/2020 06:02:23 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12/02/2020 06:02:23 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:06:39 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/02/2020 06:06:39 PM	Warning	Status Flag status: True
+12/02/2020 06:06:40 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:06:40 PM	Warning	AutoEject Flag status: True
+12/02/2020 06:06:41 PM	Success	Success execute dispenser code. Code: AutoEject
+12/02/2020 06:06:41 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:06:41 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/02/2020 06:06:41 PM	Warning	Session request
+12/02/2020 06:06:41 PM	Success	Response: {"accessKey":"549782a3100f46dca6b1f969431fa2c6","id":"3f9320668d9640bbbcc620bf6388d447"}
+12/02/2020 06:06:41 PM	Warning	Enable Flag status: True
+12/02/2020 06:06:42 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:06:42 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/02/2020 06:06:45 PM	Warning	Arduino received data: not detected
+12/02/2020 06:06:45 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:06:57 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:iA2cr1bGCLpokcqVDH2PeHcT8Lk=
+12/02/2020 06:07:00 PM	Warning	Arduino received data: detected
+12/02/2020 06:07:00 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:00 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:07:00 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:00 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:07:00 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:07:00 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:07:00 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:07:00 PM	Warning	Capture Flag status: True
+12/02/2020 06:07:01 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:07:01 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:07:01 PM	Warning	Status Flag status: True
+12/02/2020 06:07:01 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:01 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:01 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:07:02 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:02 PM	Warning	Forbid Flag status: True
+12/02/2020 06:07:02 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:07:02 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:07:02 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:07:03 PM	Warning	Arduino received data: not detected
+12/02/2020 06:07:03 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:07:06 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:tkek4feRaltDFgGFs2SHhmBHMhw=
+12/02/2020 06:07:12 PM	Warning	Arduino received data: detected
+12/02/2020 06:07:16 PM	Warning	Arduino received data: not detected
+12/02/2020 06:07:16 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:16 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:07:21 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:21 PM	Warning	Capture Flag status: True
+12/02/2020 06:07:22 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:07:22 PM	Warning	Forbid Flag status: True
+12/02/2020 06:07:22 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:07:22 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:07:22 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15610 ms)"}
+12/02/2020 06:07:22 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:07:22 PM	Warning	Enable Flag status: True
+12/02/2020 06:07:22 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:EojsUQJ5rses1rrh8wmFdddznAg=
+12/02/2020 06:07:25 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:07:25 PM	Warning	Arduino received data: detected
+12/02/2020 06:07:26 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:07:26 PM	Warning	Enable Flag status: True
+12/02/2020 06:07:26 PM	Warning	Unable to run dispenser Enable ACK.
+12/02/2020 06:07:27 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:07:27 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:07:27 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:27 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:07:27 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:27 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:07:27 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:07:27 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:07:27 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:07:27 PM	Warning	Capture Flag status: True
+12/02/2020 06:07:28 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:07:28 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:07:28 PM	Warning	Status Flag status: True
+12/02/2020 06:07:28 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:28 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:29 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:07:29 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:29 PM	Warning	Forbid Flag status: True
+12/02/2020 06:07:29 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:07:29 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:07:29 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:07:30 PM	Warning	Arduino received data: not detected
+12/02/2020 06:07:30 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:07:33 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:8lDkSQy/M4KYilNU0OEwyIRc7Ss=
+12/02/2020 06:07:47 PM	Warning	Arduino received data: detected
+12/02/2020 06:07:48 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:07:48 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:07:48 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15109 ms)"}
+12/02/2020 06:07:48 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:07:48 PM	Warning	Enable Flag status: True
+12/02/2020 06:07:49 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:07:49 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:ps0bykjlaNYOroMOFTY1qsJbCWM=
+12/02/2020 06:07:50 PM	Warning	Arduino received data: not detected
+12/02/2020 06:07:50 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:50 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:07:52 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:52 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:07:52 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:07:52 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:07:52 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:07:52 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:07:52 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:07:52 PM	Warning	Capture Flag status: True
+12/02/2020 06:07:52 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:07:52 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:07:52 PM	Warning	Status Flag status: True
+12/02/2020 06:07:52 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:52 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:07:53 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:07:53 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:07:53 PM	Warning	Forbid Flag status: True
+12/02/2020 06:07:53 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:07:53 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:07:54 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:07:55 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:07:58 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:otalbQ+0Mmwl8c/EIq47LlFKtmc=
+12/02/2020 06:08:10 PM	Warning	Arduino received data: detected
+12/02/2020 06:08:13 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:08:13 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:08:13 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12/02/2020 06:08:13 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:08:13 PM	Warning	Enable Flag status: True
+12/02/2020 06:08:13 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:08:14 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:08:14 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:P0dZR37pXNG8n6t9trKstRtb75k=
+12/02/2020 06:08:15 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:08:15 PM	Warning	Arduino received data: not detected
+12/02/2020 06:08:15 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:08:18 PM	Warning	Arduino received data: detected
+12/02/2020 06:08:18 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:08:18 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:08:18 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:08:18 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:08:18 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:08:18 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:08:18 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:08:18 PM	Warning	Capture Flag status: True
+12/02/2020 06:08:18 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:08:18 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:08:18 PM	Warning	Status Flag status: True
+12/02/2020 06:08:18 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:08:18 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:08:19 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:08:19 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:08:19 PM	Warning	Forbid Flag status: True
+12/02/2020 06:08:19 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:08:19 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:08:20 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:08:20 PM	Warning	Arduino received data: not detected
+12/02/2020 06:08:21 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:08:24 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:r4py7KLTGlWmAGFLIIOJZ5tQ9g4=
+12/02/2020 06:08:39 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:08:39 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:08:39 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15360 ms)"}
+12/02/2020 06:08:39 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:08:39 PM	Warning	Enable Flag status: True
+12/02/2020 06:08:40 PM	Warning	AWS 3f9320668d9640bbbcc620bf6388d447:ba1ZUc+xgQ/EfcQso/B5y5DY7KA=
+12/02/2020 06:08:40 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:08:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:11:47 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/02/2020 06:11:47 PM	Warning	Status Flag status: True
+12/02/2020 06:11:47 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:11:47 PM	Warning	AutoEject Flag status: True
+12/02/2020 06:11:48 PM	Success	Success execute dispenser code. Code: AutoEject
+12/02/2020 06:11:48 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:11:48 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/02/2020 06:11:48 PM	Warning	Session request
+12/02/2020 06:11:48 PM	Success	Response: {"accessKey":"d68e7ebea41d4ab08a478703f174c10f","id":"75fdd6c130bd471595413417038ddd5e"}
+12/02/2020 06:11:48 PM	Warning	Enable Flag status: True
+12/02/2020 06:11:49 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:11:49 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/02/2020 06:11:52 PM	Warning	Arduino received data: not detected
+12/02/2020 06:11:52 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:12:04 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:/whENeRP9wMnfOmoWDKtQ9VXcEo=
+12/02/2020 06:12:16 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:17 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:12:17 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:17 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:12:17 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:12:17 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:12:17 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:12:17 PM	Warning	Capture Flag status: True
+12/02/2020 06:12:17 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:12:17 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:12:17 PM	Warning	Status Flag status: True
+12/02/2020 06:12:17 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:17 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:18 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:12:18 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:12:18 PM	Warning	Forbid Flag status: True
+12/02/2020 06:12:18 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:12:18 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:12:19 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:12:20 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:12:20 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:oPeBA2svmsJjhEjanks1P7cXvCU=
+12/02/2020 06:12:23 PM	Warning	Arduino received data: detected
+12/02/2020 06:12:23 PM	Warning	Enable Flag status: True
+12/02/2020 06:12:24 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:12:26 PM	Warning	Arduino received data: not detected
+12/02/2020 06:12:26 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:5780kJVLC0WEPsMU0hn2SGBb+es=
+12/02/2020 06:12:26 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:12:26 PM	Error	Status Code : MethodNotAllowed
+12/02/2020 06:12:26 PM	Error	Status Description : Method Not Allowed
+12/02/2020 06:12:26 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12/02/2020 06:12:26 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:12:26 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:12:26 PM	Error	Status Code : InternalServerError
+12/02/2020 06:12:26 PM	Error	Status Description : Internal Server Error
+12/02/2020 06:12:26 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12/02/2020 06:12:26 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:12:39 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:sSyFaRnOG5yfkyHLILU1VA4UM8I=
+12/02/2020 06:12:42 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:42 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:12:42 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:42 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:12:42 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:12:42 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:12:42 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:12:42 PM	Warning	Capture Flag status: True
+12/02/2020 06:12:42 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:12:42 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:12:42 PM	Warning	Status Flag status: True
+12/02/2020 06:12:42 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:42 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:43 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:12:43 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:12:43 PM	Warning	Forbid Flag status: True
+12/02/2020 06:12:43 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:12:43 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:12:44 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:12:45 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:12:48 PM	Warning	Enable Flag status: True
+12/02/2020 06:12:48 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:12:49 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:Xj41ee5/N7F/V7pCXUDqWsctzKU=
+12/02/2020 06:12:52 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:52 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:12:52 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:12:52 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:12:52 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:12:52 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:12:52 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:12:52 PM	Warning	Capture Flag status: True
+12/02/2020 06:12:52 PM	Warning	Arduino received data: detected
+12/02/2020 06:12:53 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:12:53 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:12:53 PM	Warning	Status Flag status: True
+12/02/2020 06:12:53 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:53 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:12:53 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:12:53 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:12:53 PM	Warning	Forbid Flag status: True
+12/02/2020 06:12:53 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:12:53 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:12:54 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:12:55 PM	Warning	Arduino received data: not detected
+12/02/2020 06:12:55 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:12:58 PM	Warning	Enable Flag status: True
+12/02/2020 06:12:59 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:13:00 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:30NKF7b4xk05H4VvFpY2TpwJ2xI=
+12/02/2020 06:13:14 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:gyxzlIaNCH0FXR90fZK8t5W9zsI=
+12/02/2020 06:13:14 PM	Error	Status Code : MethodNotAllowed
+12/02/2020 06:13:14 PM	Error	Status Description : Method Not Allowed
+12/02/2020 06:13:14 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12/02/2020 06:13:14 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:13:14 PM	Error	Status Code : InternalServerError
+12/02/2020 06:13:14 PM	Error	Status Description : Internal Server Error
+12/02/2020 06:13:14 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12/02/2020 06:13:14 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:13:14 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:13:14 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:13:30 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:GJCcbYPFdxo1bW/w6jVj/9vlNzg=
+12/02/2020 06:13:35 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:13:35 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:13:35 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:13:35 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:13:35 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:13:35 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:13:35 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:13:35 PM	Warning	Capture Flag status: True
+12/02/2020 06:13:36 PM	Warning	Arduino received data: detected
+12/02/2020 06:13:36 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:13:36 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:13:36 PM	Warning	Status Flag status: True
+12/02/2020 06:13:36 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:13:36 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:13:37 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:13:37 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:13:37 PM	Warning	Forbid Flag status: True
+12/02/2020 06:13:37 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:13:37 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:13:38 PM	Warning	Arduino received data: not detected
+12/02/2020 06:13:38 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:13:39 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:13:42 PM	Warning	Arduino received data: detected
+12/02/2020 06:13:42 PM	Warning	Enable Flag status: True
+12/02/2020 06:13:43 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:13:44 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:66BCgMEY9uKoR54tcXfmoU0GbNw=
+12/02/2020 06:13:44 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:13:44 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:13:44 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:13:44 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:13:44 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:13:44 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:13:44 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:13:44 PM	Warning	Capture Flag status: True
+12/02/2020 06:13:45 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:13:45 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:13:45 PM	Warning	Status Flag status: True
+12/02/2020 06:13:45 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:13:45 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:13:46 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:13:46 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:13:46 PM	Warning	Forbid Flag status: True
+12/02/2020 06:13:46 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:13:46 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:13:46 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:13:47 PM	Warning	Arduino received data: not detected
+12/02/2020 06:13:47 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:13:50 PM	Warning	Enable Flag status: True
+12/02/2020 06:13:51 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:13:52 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:wPB34ok1br/sGsLiePXBWCq19w8=
+12/02/2020 06:14:06 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:4Af0PEdBo7JeutatmyPPZ4UzfjU=
+12/02/2020 06:14:07 PM	Error	Status Code : MethodNotAllowed
+12/02/2020 06:14:07 PM	Error	Status Description : Method Not Allowed
+12/02/2020 06:14:07 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12/02/2020 06:14:07 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:14:07 PM	Error	Status Code : InternalServerError
+12/02/2020 06:14:07 PM	Error	Status Description : Internal Server Error
+12/02/2020 06:14:07 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12/02/2020 06:14:07 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:14:07 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:14:07 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:14:22 PM	Warning	AWS 75fdd6c130bd471595413417038ddd5e:QIBz/gE92lcmf1OecTbtbYr3gRM=
+12/02/2020 06:20:33 PM	Success	Connect to card dispenser successfully! Port: COM11
+12/02/2020 06:20:33 PM	Warning	Status Flag status: True
+12/02/2020 06:20:34 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:20:34 PM	Warning	AutoEject Flag status: True
+12/02/2020 06:20:34 PM	Success	Success execute dispenser code. Code: AutoEject
+12/02/2020 06:20:34 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:20:34 PM	Success	Connect to Arduino port successfully. Port: COM3
+12/02/2020 06:20:34 PM	Warning	Session request
+12/02/2020 06:20:34 PM	Success	Response: {"accessKey":"b9e9b49aafe04132862189096c46e1dc","id":"245ae958f2f64bbea29487af94cc8ba8"}
+12/02/2020 06:20:34 PM	Warning	Enable Flag status: True
+12/02/2020 06:20:35 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:20:35 PM	Success	Vingcard IP Encoder Initialize successfully!
+12/02/2020 06:20:38 PM	Warning	Arduino received data: not detected
+12/02/2020 06:20:38 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:20:51 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:cU0mCzW/PWRV5j7CXu1UnYhh8JE=
+12/02/2020 06:20:56 PM	Warning	Arduino received data: detected
+12/02/2020 06:20:57 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:20:57 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:20:57 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:20:57 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:20:57 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:20:57 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:20:57 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:20:57 PM	Warning	Capture Flag status: True
+12/02/2020 06:20:57 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:20:57 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:20:57 PM	Warning	Status Flag status: True
+12/02/2020 06:20:57 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:20:57 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:20:58 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:20:59 PM	Warning	Arduino received data: not detected
+12/02/2020 06:20:59 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:20:59 PM	Warning	Forbid Flag status: True
+12/02/2020 06:21:00 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:21:00 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:21:00 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:21:01 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:21:03 PM	Warning	Enable Flag status: True
+12/02/2020 06:21:04 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:21:05 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:SqOXImmzV4nGMMBs6R9ceobTkJM=
+12/02/2020 06:21:05 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:05 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:21:05 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:05 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:21:05 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:21:05 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:21:05 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:21:05 PM	Warning	Capture Flag status: True
+12/02/2020 06:21:06 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:21:06 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:21:06 PM	Warning	Status Flag status: True
+12/02/2020 06:21:06 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:06 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:07 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:21:07 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:21:07 PM	Warning	Forbid Flag status: True
+12/02/2020 06:21:07 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:21:07 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:21:07 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:21:08 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:21:10 PM	Warning	Enable Flag status: True
+12/02/2020 06:21:11 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:21:12 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:I41GE9yy3dHQK87r0Ftx17xEPkg=
+12/02/2020 06:21:12 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:12 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:21:12 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:12 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:21:12 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:21:12 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:21:12 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:21:12 PM	Warning	Capture Flag status: True
+12/02/2020 06:21:13 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:21:13 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:21:13 PM	Warning	Status Flag status: True
+12/02/2020 06:21:13 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:13 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:14 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:21:14 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:21:14 PM	Warning	Forbid Flag status: True
+12/02/2020 06:21:14 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:21:14 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:21:14 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:21:15 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:21:16 PM	Warning	Arduino received data: detected
+12/02/2020 06:21:17 PM	Warning	Enable Flag status: True
+12/02/2020 06:21:18 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:21:19 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:hmbkB2Wq8t6jXPd1rC9hDLAj9vk=
+12/02/2020 06:21:19 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:19 PM	Success	Response: {"credentialId":null,"cardHolder":"Auto-Added","surname":null,"givenName":null}
+12/02/2020 06:21:19 PM	Warning	CREATE KEY REQUEST
+12/02/2020 06:21:19 PM	Success	Response: {"credentialId":null,"cardHolder":null,"surname":"Auto-Added","givenName":"Auto-Added"}
+12/02/2020 06:21:19 PM	Warning	CardHolder: Auto-Added Auto-Added
+12/02/2020 06:21:19 PM	Warning	Valid card. Proceed success procedure.
+12/02/2020 06:21:19 PM	Success	Running command successfully: Arduino TurnOn
+12/02/2020 06:21:19 PM	Warning	Capture Flag status: True
+12/02/2020 06:21:20 PM	Failed	Unable to execute dispenser code: Capture, Reading step name: Response
+12/02/2020 06:21:20 PM	Success	Success execute dispenser code. Code: Capture
+12/02/2020 06:21:20 PM	Warning	Status Flag status: True
+12/02/2020 06:21:20 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:20 PM	Warning	Unable to run dispenser Status ACK.
+12/02/2020 06:21:21 PM	Success	Success execute dispenser code. Code: Status
+12/02/2020 06:21:21 PM	Success	Running command successfully: Arduino TurnOff
+12/02/2020 06:21:21 PM	Warning	Forbid Flag status: True
+12/02/2020 06:21:21 PM	Warning	Initializing port for Arduino...
+12/02/2020 06:21:21 PM	Failed	Unable to run TurnOn command. Reason: The port is closed.
+12/02/2020 06:21:21 PM	Warning	Arduino received data: not detected
+12/02/2020 06:21:21 PM	Success	Success execute dispenser code. Code: Forbid
+12/02/2020 06:21:22 PM	Success	Running command successfully: Arduino UpdateThreshold
+12/02/2020 06:21:24 PM	Warning	Enable Flag status: True
+12/02/2020 06:21:25 PM	Success	Success execute dispenser code. Code: Enable
+12/02/2020 06:21:26 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:DOt8SnoJzo8VEB4JQXg38D7/JaY=
+12/02/2020 06:21:40 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:3QbnnvXnFn67yXcvtUFCATp4KqM=
+12/02/2020 06:21:41 PM	Error	Status Code : MethodNotAllowed
+12/02/2020 06:21:41 PM	Error	Status Description : Method Not Allowed
+12/02/2020 06:21:41 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:41 PM	Error	Status Code : InternalServerError
+12/02/2020 06:21:41 PM	Error	Status Description : Internal Server Error
+12/02/2020 06:21:41 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:41 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:21:56 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:J4Q6wlEmGJb0aR/YLjlsLMm/AbY=
+12/02/2020 06:22:12 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:22:12 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:22:12 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15625 ms)"}
+12/02/2020 06:22:12 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:22:12 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:tlcnzVxysYD0MetUw2dZEJtB2VI=
+12/02/2020 06:22:28 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:22:28 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:22:28 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15609 ms)"}
+12/02/2020 06:22:28 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:22:28 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:gN4ifmbkw9TO9jBszVwhAg2Lr1c=
+12/02/2020 06:22:44 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:22:44 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:22:44 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15610 ms)"}
+12/02/2020 06:22:44 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:22:44 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:l5yNMf7UyJ2zFqYjksk22O+DFVY=
+12/02/2020 06:23:00 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:23:00 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:23:00 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15094 ms)"}
+12/02/2020 06:23:00 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:23:00 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:5HNBQTgg54PX9fuOjbPhkzaZddw=
+12/02/2020 06:23:16 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:23:16 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:23:16 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15109 ms)"}
+12/02/2020 06:23:16 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:23:16 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:bVnqXCQZaP/kqgGgIC7reO6oxqU=
+12/02/2020 06:23:32 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:23:32 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:23:32 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15125 ms)"}
+12/02/2020 06:23:32 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:23:32 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:Qkz1wkiFsEAV1tQZf8nTWdgIwGo=
+12/02/2020 06:23:48 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:23:48 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:23:48 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12/02/2020 06:23:48 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:23:48 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:NKwS7fPYkd4dVxBdGG1YdT9aQqE=
+12/02/2020 06:24:04 PM	Error	Status Code : GatewayTimeout
+12/02/2020 06:24:04 PM	Error	Status Description : Gateway Timeout
+12/02/2020 06:24:04 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12/02/2020 06:24:04 PM	Success	Running command successfully: Arduino StopRecordThreshold
+12/02/2020 06:24:04 PM	Warning	AWS 245ae958f2f64bbea29487af94cc8ba8:gUUmlXZbGXuPmaH2gZAe/SCXN18=

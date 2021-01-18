@@ -1,0 +1,213 @@
+Date:	Status:	Description:
+12-29-2020 06:03:45 PM	Success	Connect to card dispenser successfully! Port: COM11
+12-29-2020 06:03:45 PM	Warning	Status Flag status: True
+12-29-2020 06:03:46 PM	Success	Success execute dispenser code. Code: Status
+12-29-2020 06:03:46 PM	Warning	AutoEject Flag status: True
+12-29-2020 06:03:46 PM	Success	Success execute dispenser code. Code: AutoEject
+12-29-2020 06:03:46 PM	Warning	Initializing port for Arduino...
+12-29-2020 06:03:46 PM	Success	Connect to Arduino port successfully. Port: COM3
+12-29-2020 06:03:47 PM	Warning	Session request
+12-29-2020 06:03:47 PM	Success	Response: {"accessKey":"a297da6c2e6e4d4fba5690adf652a4ca","id":"58afe4df00e94ee09647d4f0f0892a9f"}
+12-29-2020 06:03:47 PM	Warning	Enable Flag status: True
+12-29-2020 06:03:48 PM	Success	Success execute dispenser code. Code: Enable
+12-29-2020 06:03:48 PM	Success	Vingcard IP Encoder Initialize successfully!
+12-29-2020 06:03:51 PM	Warning	Arduino received data: not detected
+12-29-2020 06:03:51 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:04:03 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:04:03 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:Lt/IT9tIuJ84nhkp4atGPxcMSfA=
+12-29-2020 06:04:19 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:04:19 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:Mx91W1vRLMga3SAsXDEjwa/Skgw=
+12-29-2020 06:04:21 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:04:21 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:04:21 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 18125 ms)"}
+12-29-2020 06:04:21 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:04:35 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:04:35 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:Sfkpny5w26QLK97k+YdHm3/v5cc=
+12-29-2020 06:04:42 PM	Error	Status Code : MethodNotAllowed
+12-29-2020 06:04:42 PM	Error	Status Description : Method Not Allowed
+12-29-2020 06:04:42 PM	Error	Response: {  "status" : 405,  "code" : 40501,  "resource" : null,  "properties" : [ ],  "message" : "The request method is not allowed on this resource.",  "developerMessage" : "The request method is not allowed on this resource. (Encoder is already in use by another web service operator)"}
+12-29-2020 06:04:42 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:04:42 PM	Error	Status Code : InternalServerError
+12-29-2020 06:04:42 PM	Error	Status Description : Internal Server Error
+12-29-2020 06:04:42 PM	Error	Response: {  "status" : 500,  "code" : 50001,  "resource" : null,  "properties" : [ ],  "message" : "Internal server error.",  "developerMessage" : "Internal server error. (Failed to release encoder 1111, since the encoder isn't locked)"}
+12-29-2020 06:04:42 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:04:51 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:04:51 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:WN7d/cfu8fLpax6POuQNK74Zp1I=
+12-29-2020 06:05:06 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:05:06 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:05:06 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15140 ms)"}
+12-29-2020 06:05:06 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:05:07 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:05:07 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:xiNyW3GbagkgKMnHLlFU3v8tEdI=
+12-29-2020 06:05:23 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:05:23 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:05:23 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15359 ms)"}
+12-29-2020 06:05:23 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:05:23 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:05:23 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:vqlRMb4kfIYKoXa3qtRBekVAVVg=
+12-29-2020 06:05:39 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:05:39 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:05:39 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:05:39 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:05:39 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:05:39 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:fNYC635w4Nux/Q/cQrpSZWNba3g=
+12-29-2020 06:05:55 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:05:55 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:05:55 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:05:55 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:05:55 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:05:55 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:RC3EvclGSSzOqEfvgJlK5NOI58Y=
+12-29-2020 06:06:11 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:06:11 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:06:11 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:06:11 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:06:11 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:06:11 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:cp9qi73nNDlr94Sbt0pVauup4I8=
+12-29-2020 06:06:27 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:06:27 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:06:27 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:06:27 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:06:27 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:06:27 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:uNbFmB0HDUEVaJplX9Vu36D9XJM=
+12-29-2020 06:06:43 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:06:43 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:06:43 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:06:43 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:06:43 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:06:43 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:ALs8Vj+ezHuzmybihYEoKcdWXCQ=
+12-29-2020 06:06:59 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:06:59 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:06:59 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15359 ms)"}
+12-29-2020 06:06:59 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:06:59 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:06:59 PM	Warning	AWS 58afe4df00e94ee09647d4f0f0892a9f:5k+02/9vd3o9yiYlvaRmS/mmnGc=
+12-29-2020 06:13:51 PM	Success	Connect to card dispenser successfully! Port: COM11
+12-29-2020 06:13:51 PM	Warning	Status Flag status: True
+12-29-2020 06:13:51 PM	Success	Success execute dispenser code. Code: Status
+12-29-2020 06:13:51 PM	Warning	AutoEject Flag status: True
+12-29-2020 06:13:52 PM	Success	Success execute dispenser code. Code: AutoEject
+12-29-2020 06:13:52 PM	Warning	Initializing port for Arduino...
+12-29-2020 06:13:52 PM	Success	Connect to Arduino port successfully. Port: COM3
+12-29-2020 06:13:52 PM	Warning	Session request
+12-29-2020 06:13:52 PM	Success	Response: {"accessKey":"8c000c88eb504788bda4eb4f66b61ed6","id":"595670cafa2f45578d82a6249683867c"}
+12-29-2020 06:13:52 PM	Warning	Enable Flag status: True
+12-29-2020 06:13:53 PM	Success	Success execute dispenser code. Code: Enable
+12-29-2020 06:13:53 PM	Success	Vingcard IP Encoder Initialize successfully!
+12-29-2020 06:13:56 PM	Warning	Arduino received data: not detected
+12-29-2020 06:13:56 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:14:08 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:14:08 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:1wPkVSePahVm9cm3wjrpMkHnIsw=
+12-29-2020 06:14:24 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:14:24 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:14:24 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15625 ms)"}
+12-29-2020 06:14:24 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:14:24 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:14:24 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:rTVFQESVC/dr1Z+L3ZRnr2gcQKk=
+12-29-2020 06:14:40 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:14:40 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:14:40 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15610 ms)"}
+12-29-2020 06:14:40 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:14:40 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:14:40 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:c2JHWOD+aYcjOHPsPF1mpC4ukag=
+12-29-2020 06:14:56 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:14:56 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:14:56 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15610 ms)"}
+12-29-2020 06:14:56 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:14:56 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:14:56 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:S4bxV0k5tNWBabmXSZ+O8OTNynw=
+12-29-2020 06:15:12 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:15:12 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:15:12 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15610 ms)"}
+12-29-2020 06:15:12 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:15:12 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:15:12 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:jnvGm6Q1tYc2tf+D4VpFirtRtv0=
+12-29-2020 06:15:27 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:15:27 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:15:27 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15125 ms)"}
+12-29-2020 06:15:27 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:15:28 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:15:28 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:s4C4XbVEKp3z5LUhQZWUaOPFAZ8=
+12-29-2020 06:15:43 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:15:43 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:15:43 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12-29-2020 06:15:43 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:15:44 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:15:44 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:HPwqbeWcTzs1RWJyOKRYiYdU+uk=
+12-29-2020 06:15:59 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:15:59 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:15:59 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12-29-2020 06:15:59 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:16:00 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:16:00 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:KZci99FjvH/eqpzngKckWu+H6nc=
+12-29-2020 06:16:15 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:16:15 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:16:15 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15125 ms)"}
+12-29-2020 06:16:15 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:16:16 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:16:16 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:t/CnqnZQP3X8fKZiMyKoDFA+eJ4=
+12-29-2020 06:16:31 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:16:31 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:16:31 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15110 ms)"}
+12-29-2020 06:16:31 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:16:32 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:16:32 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:UZXJ9mm2gqovK2s8zffHb+ZF61w=
+12-29-2020 06:16:48 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:16:48 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:16:48 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15360 ms)"}
+12-29-2020 06:16:48 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:16:48 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:16:48 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:mt807Amuoy70n65i3LxVXKU8qNs=
+12-29-2020 06:17:04 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:17:04 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:17:04 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:17:04 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:17:04 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:17:04 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:GhuS/WPnIudaAMdLurrTPEENOYE=
+12-29-2020 06:17:20 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:17:20 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:17:20 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15360 ms)"}
+12-29-2020 06:17:20 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:17:20 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:17:20 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:tqMwcBZryDkwsydz5+6Y000Wk/8=
+12-29-2020 06:17:36 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:17:36 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:17:36 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:17:36 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:17:36 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:17:36 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:mKptDOtgxm2g7yXjeEukmbMZIsE=
+12-29-2020 06:17:52 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:17:52 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:17:52 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:17:52 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:17:52 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:17:52 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:Xr5jc6WgunYUqOFfpSfDQIdvf5g=
+12-29-2020 06:18:08 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:18:08 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:18:08 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:18:08 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:18:08 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:18:08 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:zyNmlb9tkPgygQz4D1EfOkVlhL8=
+12-29-2020 06:18:24 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:18:24 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:18:24 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:18:24 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:18:24 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:18:24 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:9IbG6W6uyY6RDW1GP705viUQ0PM=
+12-29-2020 06:18:40 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:18:40 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:18:40 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:18:40 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:18:40 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:18:40 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:fY3Q6kbkbPgPMi2EazAoZWH0esA=
+12-29-2020 06:18:56 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:18:56 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:18:56 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15359 ms)"}
+12-29-2020 06:18:56 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:18:56 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:18:56 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:KYVfHwUeRRmVykxtaeWPayNZyl8=
+12-29-2020 06:19:12 PM	Error	Status Code : GatewayTimeout
+12-29-2020 06:19:12 PM	Error	Status Description : Gateway Timeout
+12-29-2020 06:19:12 PM	Error	Response: {  "status" : 504,  "code" : 50402,  "resource" : null,  "properties" : [ ],  "message" : "No card on encoder.",  "developerMessage" : "No card on encoder. (Text match waiting for ReadCard after 15375 ms)"}
+12-29-2020 06:19:12 PM	Success	Running RFIDEncoder demo code
+12-29-2020 06:19:12 PM	Success	Running command successfully: Arduino TurnOff
+12-29-2020 06:19:12 PM	Warning	AWS 595670cafa2f45578d82a6249683867c:BtPOhawPdCAFXktAPCNrbkrOs1Q=
