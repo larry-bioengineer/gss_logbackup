@@ -1,7 +1,7 @@
 # Periodic Log Backup for Guest Service Station 
 
 ## Purpose
-The goal of this program is to periodically upload a program to a google sheet. The program is set to run every 5 minute until users stop the program. 
+The goal of this program is to periodically upload a program to a google sheet. The program is set to run every 5 minute until users stop the program. Each hotel should have one database and all the Guest Service Station should be connected to the database.
 
 ## To-Do
 1. allow users to input directory 
@@ -22,10 +22,12 @@ The goal of this program is to periodically upload a program to a google sheet. 
 | CheckoutLog      | Datetime                |
 |                  | Room No                 |
 |                  | Remarks                 |
+|                  | Station ID              |
 +------------------+-------------------------+
 | SystemLog        | Datetime                |
 |                  | Status                  |
 |                  | Message                 |
+|                  | Station ID              |
 +------------------+-------------------------+
 | CustomerFeedback | Datetime                |
 |                  | Firstname               |
@@ -34,6 +36,7 @@ The goal of this program is to periodically upload a program to a google sheet. 
 |                  | Email                   |
 |                  | FilterType              |
 |                  | Issue                   |
+|                  | Station ID              |
 +------------------+-------------------------+
 | Subscription     | Datetime                |
 |                  | Firstname               |
@@ -44,6 +47,7 @@ The goal of this program is to periodically upload a program to a google sheet. 
 |                  | PromotionSubscription   |
 |                  | SuggestionSubscription  |
 |                  | BlogSubscription        |
+|                  | Station ID              |
 +------------------+-------------------------+
 ```
 
