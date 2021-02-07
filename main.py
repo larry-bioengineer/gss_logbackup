@@ -1,5 +1,6 @@
 # Larry To
 # Created on: 11/26/2020
+# Last update: 2/6/2020
 # To extrat file from user chosen directory and upload to a google sheet 
 
 # Libraries
@@ -151,13 +152,13 @@ try:
 		# Program stops for X min then re-run-------------
 		print("")
 		print("Waiting for next Data Backup...")
-
-		nextUpdateT = datetime.now() + timedelta(minutes=updateTime)
-		nextMidNight = datetime.now() + timedelta(days=1)
+		currTime = datetime.now()
+		nextUpdateT = currTime + timedelta(minutes=updateTime)
+		nextMidNight = currTime + timedelta(days=1)
 		nextMidNight = nextMidNight.replace(hour=0, minute=0, second=0, microsecond=0)
 		# if update time is after midnight, adjust the update time to right before midnight
 		if (nextUpdateT - nextMidNight).total_seconds() > 0:
-			time.sleep((nextMidNight - datetime.now()).total_seconds()-1)
+			time.sleep((nextMidNight - currTime).total_seconds()-1)
 		
 		else:
 			time.sleep(60*updateTime)
