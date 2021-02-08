@@ -20,6 +20,7 @@ subcribeLogPath = programPath + "Subscribe log\\"
 updateTime = 60.0; # in minutes 
 
 
+
 try: 
 	while True:
 
@@ -158,7 +159,11 @@ try:
 		nextMidNight = nextMidNight.replace(hour=0, minute=0, second=0, microsecond=0)
 		# if update time is after midnight, adjust the update time to right before midnight
 		if (nextUpdateT - nextMidNight).total_seconds() > 0:
-			time.sleep((nextMidNight - currTime).total_seconds()-1)
+			newSleepTime = (nextMidNight - currTime).total_seconds()-1
+			if newSleepTime <= 0:
+				time.sleep(1)
+			else:
+				time.sleep((nextMidNight - currTime).total_seconds()-1)
 		
 		else:
 			time.sleep(60*updateTime)
