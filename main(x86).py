@@ -1,7 +1,8 @@
 # Larry To
-# Created on: 11/26/2020
-# Last update: 2/9/2020
+# Created on: 2/9/2020
+# Last update:
 # To extrat file from user chosen directory and upload to a google sheet 
+# Note: this program is specifically designed for 64 bit machine where the default program file is program file (x86)
 
 # Libraries
 import requests
@@ -11,7 +12,7 @@ import config
 from pathlib import Path
 
 # Parameters
-programPath = "C:\\Program Files\\Golden News Enterprises Ltd\\Guest Service Station\\log\\"
+programPath = "C:\\Program Files (x86)\\Golden News Enterprises Ltd\\Guest Service Station\\log\\"
 # programPath = "/Users/lokyiuto/Documents/CEPO/HSX/GuestServiceStation/LogBackUp/log/"
 checkoutLogPath = programPath + "Checkout log\\"
 systemLogPath = programPath + "System log\\"
